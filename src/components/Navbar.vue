@@ -23,6 +23,7 @@ onMounted(() => {
   if (windWidth.value > 900) {
     desktopNav.value = {
       display: "block",
+
     };
 
     mobileNav.value = {
@@ -41,7 +42,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div :style="desktopNav">
+  <div class="desktop-nav" :style="desktopNav">
     <nav
       class="
         flex
@@ -54,7 +55,7 @@ onMounted(() => {
       "
     >
       <section class="first">
-        <img src="../assets/ij_logo_negate.svg" class="w-32" alt="" />
+        <img  src="../assets/ij_logo_negate.svg" class="w-32" alt="" />
       </section>
       <section class="second">
         <ul class="flex flex-row">
@@ -173,6 +174,14 @@ a {
 }
 a:hover {
   color: $secondary-clr;
+}
+
+.desktop-nav {
+    z-index: 200 !important;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background: #1F2128;
 }
 
 .icon-cover {

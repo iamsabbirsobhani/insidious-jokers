@@ -257,5 +257,6 @@ p {
 h1 {
     color: gray;
     margin-top: 10px;
+    text-align: center;
 }
 </style>
