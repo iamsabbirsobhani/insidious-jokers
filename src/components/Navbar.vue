@@ -23,7 +23,6 @@ onMounted(() => {
   if (windWidth.value > 900) {
     desktopNav.value = {
       display: "block",
-
     };
 
     mobileNav.value = {
@@ -55,7 +54,7 @@ onMounted(() => {
       "
     >
       <section class="first">
-        <img  src="../assets/ij_logo_negate.svg" class="w-32" alt="" />
+        <img src="../assets/ij_logo_negate.svg" class="w-32" alt="" />
       </section>
       <section class="second">
         <ul class="flex flex-row">
@@ -120,9 +119,13 @@ onMounted(() => {
     </nav>
   </div>
 
-  <div :style="mobileNav">
+  <div class="mobile-nav" :style="mobileNav">
     <div class="nav-mobile-cover flex flex-row justify-between">
-      <img src="../assets/ij_logo_negate.svg" class="w-32" alt="" />
+      <img
+        src="../assets/ij_logo_negate.svg"
+        class="w-16 m-2.5"
+        alt="Insidious Jokers"
+      />
 
       <button
         @click="openNav"
@@ -177,11 +180,11 @@ a:hover {
 }
 
 .desktop-nav {
-    z-index: 200 !important;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    background: #1F2128;
+  z-index: 200 !important;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background: #1f2128;
 }
 
 .icon-cover {
@@ -192,7 +195,12 @@ a:hover {
   padding: 15px;
 }
 
-.nav-mobile-cover {
+.mobile-nav {
+  z-index: 200 !important;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background: #1f2128;
 }
 // .nav-mobile {
 //   height: 100%;
@@ -205,7 +213,7 @@ a:hover {
 .sidepanel {
   width: 0;
   position: fixed;
-  z-index: 1;
+  z-index: 500 !important;
   height: 100%;
   top: 0;
   left: 0;
