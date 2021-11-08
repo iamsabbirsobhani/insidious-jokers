@@ -145,14 +145,14 @@
                           >4th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >75% SOLD</span
+                          >Official launch of the collection on OpenSea (Date
+                          will be announced soon)</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Official launch of the collection on OpenSea (Date
-                          will be announced soon) A portion of ETH from the sale
-                          will be donated to charity.
+                          A portion of ETH from the sale will be donated to
+                          charity.
                         </li>
                       </ul>
                     </div>

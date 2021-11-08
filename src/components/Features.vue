@@ -10,7 +10,7 @@
             Over 80 hand-drawn items. Your Joker will be unique.</span
           >
         </h1>
-        <p class="text-gray-300 text-xl mt-5">
+        <p class="text-gray-300 mt-5" style="font-weight: normal; font-size: 20px;">
           The Insidious Jokers collection has over 80 various items – <span class="text-pink-600">different backgrounds, outfits, hats, accessories, face patterns, smiles, eyes,</span> and many more. Each single item was carefully drawn by our professional designers.
         </p>
       </div>

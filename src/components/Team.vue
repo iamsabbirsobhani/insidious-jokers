@@ -71,7 +71,7 @@
   h1 {
     margin-top: 0.1rem;
     color: white;
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
   h1::after {
     content: "";
@@ -90,6 +90,14 @@
 
   .dp {
     margin-left: 1.2rem;
+    img {
+      border-radius: 10px;
+      transition: all 0.24s;
+      box-shadow: 1px 2px 10px 5px rgba(161, 161, 161, 0.158);
+    }
+    img:hover {
+      transform: rotate(3deg);
+    }
   }
 }
 

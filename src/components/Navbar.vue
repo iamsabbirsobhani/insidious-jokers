@@ -63,7 +63,7 @@ onMounted(() => {
           <li><a href="#ICRoadmap">ROADMAP</a></li>
           <li><a href="#Team">TEAM</a></li>
           <li><a href="#FAQ">FAQ</a></li>
-          <li><a href="#">CONTACT</a></li>
+          <li><a href="#contact">CONTACT</a></li>
         </ul>
       </section>
       <section class="third flex flex-row">
