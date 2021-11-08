@@ -25,9 +25,14 @@ module.exports = {
       red: colors.red,
       yellow: colors.amber,
       blue: colors.blue,
-      violet: colors.violet
+      violet: colors.violet,
+      pink: colors.pink,
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'front-banner': "url('./src/assets/battle-apes-banner.png')"
+      }
+    },
   },
   variants: {
 

@@ -1,7 +1,10 @@
 @import "variable";
+html {
+  scroll-behavior: smooth;
+}
 body {
-    box-sizing: border-box;
-    margin: 0;
-    background-color: #1F2128;
-    font-family: $secondary;
+  box-sizing: border-box;
+  margin: 0;
+  background-color: #1f2128;
+  font-family: $secondary;
 }

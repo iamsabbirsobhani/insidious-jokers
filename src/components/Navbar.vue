@@ -58,7 +58,7 @@ onMounted(() => {
       </section>
       <section class="second">
         <ul class="flex flex-row">
-          <li><a href="#">ABOUT</a></li>
+          <li><a href="#ABout">ABOUT</a></li>
           <li><a href="#">FEATURES</a></li>
           <li><a href="#">ROADMAP</a></li>
           <li><a href="#">TEAM</a></li>
