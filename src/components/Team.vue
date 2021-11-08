@@ -1,6 +1,6 @@
 <template>
-  <div class="team-wrap" id="#TEam">
-    <section class="our-team">
+  <div class="team-wrap">
+    <section class="our-team" id="Team">
       <div class="team-typo">
         <h1 class="text-white text-4xl">Meet Our Team</h1>
         <p class="text-white text-2xl">
@@ -55,8 +55,8 @@
 
 <style lang="scss" scoped>
 .team-wrap {
-    margin-top: 6.5rem;
-    margin-bottom: 6.5rem;
+  margin-top: 6.5rem;
+  margin-bottom: 6.5rem;
 }
 
 .our-team {
@@ -69,28 +69,28 @@
 .team-dp {
   display: flex;
   h1 {
-      margin-top: .1rem;
-      color: white;
-      font-size: 2rem;
+    margin-top: 0.1rem;
+    color: white;
+    font-size: 2rem;
   }
-  h1::after{
-      content: "";
-      display: block;
-      width: 150px;
-      height: 10px;
-      margin-top: .1rem;
-      margin-bottom: .8rem;
-      background-color: #EC4899;
-    }
+  h1::after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 10px;
+    margin-top: 0.1rem;
+    margin-bottom: 0.8rem;
+    background-color: #ec4899;
+  }
 
-    p {
-        color: white;
-        font-size: 1.1rem;
-    }
+  p {
+    color: white;
+    font-size: 1.1rem;
+  }
 
-    .dp {
-        margin-left: 1.2rem;
-    }
+  .dp {
+    margin-left: 1.2rem;
+  }
 }
 
 .team-typo {
@@ -98,13 +98,13 @@
   max-width: 75rem;
 
   h1 {
-      margin-bottom: 3.8rem;
-      font-weight: bold;
-      color: #EC4899;
+    margin-bottom: 3.8rem;
+    font-weight: bold;
+    color: #ec4899;
   }
 
   p {
-      margin-bottom: 3.5rem;
+    margin-bottom: 3.5rem;
   }
 }
 </style>

@@ -60,9 +60,9 @@ onMounted(() => {
         <ul class="flex flex-row">
           <li><a href="#ABout">ABOUT</a></li>
           <li><a href="#FEatures">FEATURES</a></li>
-          <li><a href="#TEam">ROADMAP</a></li>
-          <li><a href="#">TEAM</a></li>
-          <li><a href="#">FAQ</a></li>
+          <li><a href="#ICRoadmap">ROADMAP</a></li>
+          <li><a href="#Team">TEAM</a></li>
+          <li><a href="#FAQ">FAQ</a></li>
           <li><a href="#">CONTACT</a></li>
         </ul>
       </section>
