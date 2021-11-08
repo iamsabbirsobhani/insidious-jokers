@@ -23,7 +23,7 @@
         </p>
       </div>
       <div class="right p-5">
-        <img class="right-img" src="../assets/battle-apes-gif-.gif" alt="" />
+        <img class="right-img" src="../assets/forwebsite/6.png" alt="" />
       </div>
     </section>
   </div>
