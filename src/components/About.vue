@@ -3,23 +3,15 @@
     <section class="about" id="ABout">
       <div class="left w-96 p-5">
         <h1 class="text-4xl font-bold text-gray-50">
-          <span class="text-pink-600"
-            >Lorem ipsum dolor sit amet consectetur</span
-          >
-          Consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Sit, sed.
+          <span class="text-pink-600">The Insidious Jokers</span>
         </h1>
         <p class="text-gray-300 text-xl mt-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
-          voluptates odio blanditiis fuga, eligendi ullam, modi excepturi
-          aliquam suscipit nisi quo sequi
-          <span class="text-pink-500"
-            >Lorem ipsum dolor sit amet consectetur</span
-          >
-          sed molestias iusto neque vero repudiandae doloribus pariatur
-          laboriosam. Voluptatum voluptate nesciunt, rerum quam laborum unde vel
-          suscipit voluptates itaque similique dolore est inventore officiis
-          odio autem cupiditate.
+          The Insidious Jokers is a collection of 10,000 unique hand-drawn
+          jokers.<span class="text-pink-500">There is no other collection of jokers or clowns on the
+          market.</span>  We are the first to launch the product in this niche. The
+          Insidious Jokers will make history.
+          <br>
+          Join our ambitious community by connecting to our discord server now.
         </p>
       </div>
       <div class="right p-5">

@@ -3,7 +3,10 @@
     <section class="ic-section ic-roadmap pb-0" id="ICRoadmap">
       <div class="container">
         <div class="ic-section-title center">
-          <h1 class="wow fadeInUp animated text-4xl" style="visibility: visible">
+          <h1
+            class="wow fadeInUp animated text-4xl"
+            style="visibility: visible"
+          >
             ROADMAP
           </h1>
         </div>
@@ -24,15 +27,17 @@
                     <div class="roadmap-step roadmap-step-s1">
                       <div class="roadmap-head roadmap-head-s1">
                         <span class="roadmap-time roadmap-time-s1"
-                          >Q1, Q2-2021</span
+                          >1st milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1 text-white"
-                          >LAUNCH - TBD</span
-                        >
+                          >Building an audience and spreading the word.
+                        </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Launch the minting of the CryptoPugs collection.
+                          Before starting our giveaways, we need to build
+                          audience, get people familiar with our product, and
+                          build trust between us and our audience.
                         </li>
                       </ul>
                     </div>
@@ -44,16 +49,17 @@
                       <div class="roadmap-head roadmap-head-s1">
                         <span class="roadmap-phase">Phase 1 - Survival</span>
                         <span class="roadmap-time roadmap-time-s1"
-                          >Q3-2021</span
+                          >2nd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >25% SOLD</span
+                          >Giveaway of 50 NFTs with total worth of
+                          $10,000.</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A Free CryptoPug NFT will be airdropped to 15
-                          collectors in the community.
+                          For more details connect to our discord server and
+                          follow our social media accounts.
                         </li>
                       </ul>
                     </div>
@@ -116,21 +122,17 @@
                       <div class="roadmap-head roadmap-head-s1">
                         <span class="roadmap-phase text-danger">&nbsp;</span>
                         <span class="roadmap-time roadmap-time-s1"
-                          >Q3-2022</span
+                          >3rd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >50% SOLD</span
+                          >Giveaway of 5 Super Rare NFTs</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A portion of ETH from the sale will be donated to SPCA
-                          International to support their work in saving animals
-                          lives around the world.
+                          For more details connect to our discord server and
+                          follow our social media accounts.
                         </li>
-                        <a href="https://www.spcai.org" target="_blank"
-                          >https://www.spcai.org</a
-                        >
                       </ul>
                     </div>
                   </div>
@@ -140,7 +142,7 @@
                     <div class="roadmap-step roadmap-step-s1">
                       <div class="roadmap-head roadmap-head-s1">
                         <span class="roadmap-time roadmap-time-s1"
-                          >Q3-2022</span
+                          >4th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
                           >75% SOLD</span
@@ -148,9 +150,9 @@
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          An exclusive CryptoPugs merch line is released. Hats,
-                          t-shirts and hoodies will be created and made
-                          available for purchase to CryptoPugs holders!
+                          Official launch of the collection on OpenSea (Date
+                          will be announced soon) A portion of ETH from the sale
+                          will be donated to charity.
                         </li>
                       </ul>
                     </div>
@@ -189,17 +191,16 @@
                     <div class="roadmap-step roadmap-step-s1">
                       <div class="roadmap-head roadmap-head-s1">
                         <span class="roadmap-time roadmap-time-s1"
-                          >Q1-2023</span
+                          >5th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >100% SOLD</span
+                          >2nd Unique Collection of Jokers</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          The Super Raffle, 10 randomly selected early minters
-                          will each receive a guaranteed 0.5 ETH (Chances of
-                          winning increase with the number of invites and rank)
+                          Giveaways, presale period, and official launch. Date
+                          will be announced soon. More milestones coming soon…
                         </li>
                       </ul>
                     </div>

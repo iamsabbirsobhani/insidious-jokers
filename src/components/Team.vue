@@ -2,7 +2,7 @@
   <div class="team-wrap" id="#TEam">
     <section class="our-team">
       <div class="team-typo">
-        <h1 class="text-white text-4xl">OUR TEAM</h1>
+        <h1 class="text-white text-4xl">Meet Our Team</h1>
         <p class="text-white text-2xl">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae qui
           voluptatum maiores quia voluptatem neque non? Quis qui veniam optio,
@@ -16,8 +16,8 @@
             src="../assets/forwebsite/1.png"
             alt="chick"
           />
-          <h1>Chick</h1>
-          <p>Lorem ipsum dolor sit amet.</p>
+          <h1>Daniil Mikhailov</h1>
+          <p>Founder</p>
         </div>
         <div class="dp">
           <img
@@ -25,8 +25,8 @@
             src="../assets/forwebsite/2.png"
             alt="enemy"
           />
-          <h1>Enemy</h1>
-          <p>Lorem ipsum dolor sit amet.</p>
+          <h1>Matvey Kuzmenko</h1>
+          <p>Co-founder</p>
         </div>
         <div class="dp">
           <img
@@ -34,8 +34,8 @@
             src="../assets/forwebsite/3.png"
             alt="penguin"
           />
-          <h1>Penguin</h1>
-          <p>Lorem ipsum dolor sit amet.</p>
+          <h1>Shahzain Gill</h1>
+          <p>Promoter</p>
         </div>
         <div class="dp">
           <img
@@ -43,8 +43,8 @@
             src="../assets/forwebsite/4.png"
             alt="raphael"
           />
-          <h1>Raphael</h1>
-          <p>Lorem ipsum dolor sit amet.</p>
+          <h1>Daniel Amegan</h1>
+          <p>Head Designer</p>
         </div>
       </div>
     </section>
