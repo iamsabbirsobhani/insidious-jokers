@@ -7,11 +7,13 @@ import Features from '../components/Features.vue';
 import Team from '../components/Team.vue';
 import Roadmap from '../components/Roadmap.vue';
 import FAQ from '../components/FAQ.vue';
+// import NavNew from '../components/NavNew.vue';
 </script>
 
 
 <template>
     <Navbar/>
+    <!-- <NavNew/> -->
     <FrontPage/>
     <About/>
     <Features/>

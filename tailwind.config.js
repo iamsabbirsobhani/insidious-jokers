@@ -30,7 +30,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'front-banner': "url('./src/assets/battle-apes-banner.png')"
+        // 'front-banner': "url('./src/assets/banner/01.jpg')"
       }
     },
   },

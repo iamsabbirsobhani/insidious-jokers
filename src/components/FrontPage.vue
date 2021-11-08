@@ -1,6 +1,6 @@
 <template>
-  <section class="front-page bg-no-repeat bg-top bg-auto  md:bg-bottom-center  bg-front-banner">
-
+  <section class="front-page bg-no-repeat bg-top bg-auto bg-contain  md:bg-bottom-center  bg-front-banner">
+<!-- <img src="" alt=""> -->
   </section>
 </template>
 
@@ -13,6 +13,7 @@ export default {
 <style lang="scss" scoped>
 .front-page {
     height: 100vh;
-    background-position: bottom center;
+    background-image: url('../assets/banner/01.jpg');
+    background-position: top center;
 }
 </style>
