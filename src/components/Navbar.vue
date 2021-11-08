@@ -107,10 +107,12 @@ onMounted(() => {
             text-sm
             font-bold
             rounded-lg
-            hover:bg-violet-700 hover:text-white
+            hover:bg-violet-700
+            hover:text-white
             w-52
             h-10
             mr-11
+            join
           "
         >
           JOIN OUR DISCORD
@@ -254,5 +256,13 @@ a:hover {
 
 .openbtn:hover {
   background-color: #444;
+}
+
+.join {
+  color: black;
+}
+.join:hover {
+  background-color: #6D28D9 !important;
+  color: white !important;
 }
 </style>
