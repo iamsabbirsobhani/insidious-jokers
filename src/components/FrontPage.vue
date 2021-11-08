@@ -13,7 +13,7 @@ export default {
 <style lang="scss" scoped>
 .front-page {
     height: 100vh;
-    background-image: url('../assets/banner/02.jpg');
+    background-image: url('../assets/banner/03.jpg');
     background-position: top center;
 }
 </style>
