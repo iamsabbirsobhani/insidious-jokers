@@ -93,9 +93,8 @@ onMounted(() => {
             duration-300
             hover:bg-pink-800
             cursor-pointer
-
           "
-           href="https://twitter.com/InsidiousJokers"
+          href="https://twitter.com/InsidiousJokers"
           target="_blank"
         >
           <i
@@ -119,27 +118,27 @@ onMounted(() => {
       </section>
       <section class="last">
         <form class="mt-3">
-        <button
-          class="
-            bg-white
-            transition
-            duration-300
-            mr-3
-            mb-3
-            text-sm
-            font-bold
-            rounded-lg
-            hover:bg-pink-700 hover:text-white
-            w-52
-            h-10
-            mr-11
-            join
-          "
-          type="submit"
-          formaction="https://discord.gg/fYbdMA5fxX"
-        >
-          JOIN OUR DISCORD
-        </button>
+          <button
+            class="
+              bg-white
+              transition
+              duration-300
+              mr-3
+              mb-3
+              text-sm
+              font-bold
+              rounded-lg
+              hover:bg-pink-700 hover:text-white
+              w-52
+              h-10
+              mr-11
+              join
+            "
+            type="submit"
+            formaction="https://discord.gg/fYbdMA5fxX"
+          >
+            JOIN OUR DISCORD
+          </button>
         </form>
       </section>
     </nav>
@@ -152,7 +151,7 @@ onMounted(() => {
         class="w-16 m-2.5"
         alt="Insidious Jokers"
       />
-      <div
+      <a
         class="
           icon-cover
           ml-8
@@ -162,12 +161,14 @@ onMounted(() => {
           hover:bg-pink-800
           cursor-pointer
         "
+        href="https://www.instagram.com/insidiousjokers/"
+        target="_blank"
       >
         <i
           class="fab fa-instagram text-white text-xl font-bold cursor-pointer"
         ></i>
-      </div>
-      <div
+      </a>
+      <a
         class="
           icon-cover
           ml-2.5
@@ -177,12 +178,14 @@ onMounted(() => {
           hover:bg-pink-800
           cursor-pointer
         "
+        href="https://twitter.com/InsidiousJokers"
+        target="_blank"
       >
         <i
           class="fab fa-twitter text-white text-xl font-bold cursor-pointer"
         ></i>
-      </div>
-      <div
+      </a>
+      <a
         class="
           icon-cover
           ml-2.5
@@ -191,9 +194,12 @@ onMounted(() => {
           hover:bg-pink-800
           cursor-pointer
         "
+                  href="https://opensea.io/collection/insidious-jokers-collection"
+          target="_blank"
       >
         <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
-      </div>
+      </a>
+
       <button
         @click="openNav"
         class="
@@ -232,6 +238,7 @@ onMounted(() => {
       <li><a href="#FAQ">FAQ</a></li>
       <li><a href="#contact">CONTACT</a></li>
     </ul>
+    <form>
     <button
       class="
         bg-white
@@ -250,9 +257,11 @@ onMounted(() => {
         ml-7
         mt-5
       "
+      formaction="https://discord.gg/fYbdMA5fxX"
     >
       JOIN OUR DISCORD
     </button>
+    </form>
   </nav>
 </template>
 
@@ -276,7 +285,6 @@ a:hover {
   top: 0;
   background: #1f2128;
   box-shadow: 0px 2px 10px 1px rgba(128, 128, 128, 0.267);
-
 }
 
 .icon-cover {
@@ -367,7 +375,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 
 .nm-1:hover::after {
@@ -379,7 +386,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 
 .nm-2::after {
@@ -391,7 +397,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 .nm-2:hover::after {
   content: "";
@@ -402,7 +407,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 .nm-3::after {
   content: "";
@@ -413,7 +417,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 .nm-3:hover::after {
   content: "";
@@ -424,7 +427,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 .nm-4::after {
   content: "";
@@ -435,7 +437,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 .nm-4:hover::after {
   content: "";
@@ -446,7 +447,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 .nm-5::after {
   content: "";
@@ -457,7 +457,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 .nm-5:hover::after {
   content: "";
@@ -468,7 +467,6 @@ a:hover {
   height: 4px;
   background-color: #db2777;
   transition: all 0.24s;
-
 }
 .nm-6::after {
   content: "";
