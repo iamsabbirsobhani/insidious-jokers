@@ -15,8 +15,6 @@
           data-wow-delay=".1s"
           style="visibility: visible; animation-delay: 0.1s"
         >
-          Stellar brings traditional game experiences, play to earn and Defi to
-          NFT collectibles.
         </p>
         <div class="ic-roadmap-content pt-4">
           <div class="roadmap-all">
