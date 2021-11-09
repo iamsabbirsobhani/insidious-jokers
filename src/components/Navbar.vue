@@ -97,6 +97,19 @@ onMounted(() => {
             class="fab fa-twitter text-white text-xl font-bold cursor-pointer"
           ></i>
         </div>
+        <div
+          class="
+            icon-cover
+            ml-2.5
+
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <img src="../assets/Logomark-Transparent.svg" class="" alt="">
+        </div>
       </section>
       <section class="last">
         <button

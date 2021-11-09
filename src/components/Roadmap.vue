@@ -30,7 +30,7 @@
                           >1st milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1 text-white"
-                          >Building an audience and spreading the word.
+                          >Building an audience and spreading the word
                         </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
@@ -53,7 +53,7 @@
                         >
                         <span class="roadmap-title roadmap-title-s1"
                           >Giveaway of 50 NFTs with total worth of
-                          $10,000.</span
+                          $10,000</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
@@ -125,7 +125,7 @@
                           >3rd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 5 Super Rare NFTs.</span
+                          >Giveaway of 5 Super Rare NFTs</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">

@@ -11,11 +11,48 @@
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/TeamPictures/DanielAmegan.png"
+            src="../assets/TeamPictures/Daniil.png"
             alt="Daniel Amegan"
           />
           <h1>Daniil Mikhailov</h1>
           <p>Founder</p>
+
+          <div class="contact-team flex">
+             <div
+             style="margin-left: 0;"
+          class="
+            icon-cover
+            ml-2.5
+
+            w-12
+            h-12
+            p-3
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <i class="fab fa-instagram text-white text-xl font-bold cursor-pointer"></i>
+        </div>
+             <div
+             style="margin-left: 0;"
+          class="
+            icon-cover
+            ml-2.5
+
+            w-12
+            h-12
+            p-3
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <i class="fas fa-envelope-square text-white text-xl font-bold cursor-pointer"></i>
+        </div>
+        </div>
         </div>
         <div class="dp">
           <img
@@ -25,6 +62,44 @@
           />
           <h1>Matvey Kuzmenko</h1>
           <p>Co-founder</p>
+
+
+                    <div class="contact-team flex">
+             <div
+             style="margin-left: 0;"
+          class="
+            icon-cover
+            ml-2.5
+
+            w-12
+            h-12
+            p-3
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <i class="fab fa-instagram text-white text-xl font-bold cursor-pointer"></i>
+        </div>
+             <div
+             style="margin-left: 0;"
+          class="
+            icon-cover
+            ml-2.5
+
+            w-12
+            h-12
+            p-3
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <i class="fas fa-envelope-square text-white text-xl font-bold cursor-pointer"></i>
+        </div>
+        </div>
         </div>
         <div class="dp">
           <img
@@ -34,15 +109,88 @@
           />
           <h1>Shahzain Gill</h1>
           <p>Content Creator</p>
+                    <div class="contact-team flex">
+             <div
+             style="margin-left: 0;"
+          class="
+            icon-cover
+            ml-2.5
+
+            w-12
+            h-12
+            p-3
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <i class="fab fa-instagram text-white text-xl font-bold cursor-pointer"></i>
+        </div>
+             <div
+             style="margin-left: 0;"
+          class="
+            icon-cover
+            ml-2.5
+
+            w-12
+            h-12
+            p-3
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <i class="fas fa-envelope-square text-white text-xl font-bold cursor-pointer"></i>
+        </div>
+        </div>
         </div>
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/TeamPictures/Daniil.png"
+            src="../assets/TeamPictures/DanielAmegan.png"
             alt="Daniel Amegan"
           />
           <h1>Daniel Amegan</h1>
           <p>Head Designer</p>
+
+                    <div class="contact-team flex">
+             <div
+             style="margin-left: 0;"
+          class="
+            icon-cover
+            ml-2.5
+
+            w-12
+            h-12
+            p-3
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <i class="fab fa-instagram text-white text-xl font-bold cursor-pointer"></i>
+        </div>
+             <div
+             style="margin-left: 0;"
+          class="
+            icon-cover
+            ml-2.5
+
+            w-12
+            h-12
+            p-3
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+        >
+          <i class="fas fa-envelope-square text-white text-xl font-bold cursor-pointer"></i>
+        </div>
+        </div>
         </div>
       </div>
     </section>
@@ -76,7 +224,7 @@
     display: block;
     width: 150px;
     height: 10px;
-    margin-top: 0.1rem;
+    margin-top: 1rem;
     margin-bottom: 0.8rem;
     background-color: #ec4899;
   }

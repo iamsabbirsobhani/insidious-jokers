@@ -1,5 +1,5 @@
 <template>
-  <div class="row" id="FAQ">
+  <div class="row" id="FAQ" style="margin-bottom: 10rem;">
   <h1 class="text-center text-white text-4xl font-bold">FAQ</h1>
     <!-- <div class="col">
       <h2>Open <b>multiple</b></h2>

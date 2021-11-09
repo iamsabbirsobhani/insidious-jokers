@@ -8,13 +8,13 @@
       />
       <div class="social-icon my-3">
         <div
-        style="padding: 1rem;"
+        style="padding: 16px;"
           class="
             w-12
             h-12
             rounded-full
             icon-cover
-            bg-gray-50
+            bg-gray-600
             hover:text-white
             transition
             duration-300
@@ -42,7 +42,7 @@
             rounded-full
             icon-cover
             ml-2.5
-            bg-gray-50
+             bg-gray-600
             transition
             duration-300
             hover:bg-pink-700
@@ -74,7 +74,7 @@
             ml-2.5
             transition
             duration-300
-            bg-gray-50
+             bg-gray-600
             hover:bg-violet-800
             cursor-pointer
             hover:bg-pink-700
@@ -93,8 +93,29 @@
             "
           ></i>
         </div>
+
+        <div
+        style="padding: 0.8rem;"
+          class="
+            w-12
+            h-12
+
+            rounded-full
+            icon-cover
+            ml-2.5
+            transition
+            duration-300
+            bg-gray-600
+            hover:bg-violet-800
+            cursor-pointer
+            hover:bg-pink-700
+            hover:text-white
+          "
+        >
+         <img src="../assets/Logomark-Transparent.svg" alt="">
+        </div>
       </div>
-      <p class="term text-gray-50">Term of Service</p>
+      <!-- <p class="term text-gray-50">Term of Service</p> -->
       <p class="copyright text-pink-700">
         Copyright © 2021 Insidious Jokers. All Rights Reserved​
       </p>
@@ -110,6 +131,7 @@ export default {};
 @import "../../scss/variable.scss";
 
 footer {
+  margin-top: 10rem;
   display: flex;
   justify-content: center;
   background-color: #33343b;
