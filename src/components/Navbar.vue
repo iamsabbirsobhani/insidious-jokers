@@ -191,9 +191,11 @@ onMounted(() => {
           hover:bg-pink-700 hover:text-white
           w-12
           h-10
-          m-3
+          ml-6
+          mr-4
         "
       >
+        <!-- m-3 -->
         <i class="fas fa-bars hover:text-white text-black text-3xl"></i>
       </button>
     </div>
@@ -262,6 +264,8 @@ a:hover {
   position: sticky;
   top: 0;
   background: #1f2128;
+  box-shadow: 0px 2px 10px 1px rgba(128, 128, 128, 0.267);
+
 }
 
 .icon-cover {
@@ -274,10 +278,12 @@ a:hover {
 
 .mobile-nav {
   z-index: 200 !important;
+  height: 95px;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
   background: #1f2128;
+  box-shadow: 0px 2px 10px 1px rgba(128, 128, 128, 0.267);
 }
 // .nav-mobile {
 //   height: 100%;
