@@ -261,4 +261,10 @@
     margin-bottom: 3.5rem;
   }
 }
+
+@media (max-width: 900px) {
+  .team-dp {
+    flex-direction: column;
+  }
+}
 </style>

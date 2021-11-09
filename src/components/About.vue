@@ -132,7 +132,7 @@ export default {};
   align-items: center;
 }
 .left {
-  width: 620px;
+  max-width: 620px;
 }
 
 .right {
@@ -285,9 +285,16 @@ export default {};
 // .right-img img:nth-of-type(4) {
 //   animation-delay: 0;
 // }
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   .about {
     flex-direction: column;
   }
+
+  .right {
+  position: relative;
+  width: 290px;
+  height: 520px;
+  margin-right: 100px;
+}
 }
 </style>

@@ -62,4 +62,13 @@ export default {};
 .right {
   max-width: 620px;
 }
+
+@media (max-width: 900px) {
+  // .right {
+  //   max-width: 620px;
+  // }
+  .features {
+    flex-direction: column;
+  }
+}
 </style>

@@ -16,4 +16,10 @@ export default {
     background-image: url('../assets/banner/newOne.png');
     background-position: top center;
 }
+
+@media (max-width: 900px) {
+.front-page {
+  background: none;
+}
+}
 </style>
