@@ -329,7 +329,7 @@ export default {};
   .right {
     position: relative;
     width: 290px;
-    height: 520px;
+    height: 350px;
     margin-right: 100px;
   }
   .left {
