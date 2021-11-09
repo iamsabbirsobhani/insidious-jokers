@@ -43,7 +43,7 @@
                   <div class="roadmap roadmap-s1 roadmap-done text-lg-center">
                     <div class="roadmap-step roadmap-step-s1">
                       <div class="roadmap-head roadmap-head-s1">
-                        <span class="roadmap-phase">Phase 1 - Survival</span>
+                        <span class="roadmap-phase"></span>
                         <span class="roadmap-time roadmap-time-s1"
                           >2nd milestone</span
                         >
