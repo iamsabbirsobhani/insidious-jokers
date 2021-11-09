@@ -7,7 +7,7 @@ import Features from '../components/Features.vue';
 import Team from '../components/Team.vue';
 import Roadmap from '../components/Roadmap.vue';
 import FAQ from '../components/FAQ.vue';
-import ContactUs from '../components/ContactUs.vue';
+// import ContactUs from '../components/ContactUs.vue';
 // import NavNew from '../components/NavNew.vue';
 </script>
 
@@ -21,7 +21,7 @@ import ContactUs from '../components/ContactUs.vue';
     <Roadmap/>
     <Team/>
     <FAQ/>
-    <ContactUs/>
+    <!-- <ContactUs/> -->
     <Footer/>
 </template>
 
