@@ -5,7 +5,7 @@
         <h1 class="text-4xl font-bold text-gray-50">
           <span class="text-pink-600">The Insidious Jokers</span>
         </h1>
-        <p class="text-gray-300 text-xl mt-5">
+        <p class="text-gray-300 text-xl mt-5 leading-9 tracking-wide subpixel-antialiased">
           The Insidious Jokers is a collection of 10,000 unique hand-drawn
           characters. What makes us truly unique is that
           <span class="text-pink-500"
