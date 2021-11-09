@@ -347,6 +347,18 @@ a:hover {
   color: white !important;
 }
 
+.nm-1::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+  transition: all 0.24s;
+
+}
+
 .nm-1:hover::after {
   content: "";
   display: block;
@@ -355,6 +367,20 @@ a:hover {
   margin-left: 40px;
   height: 4px;
   background-color: #db2777;
+  transition: all 0.24s;
+
+}
+
+.nm-2::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+  transition: all 0.24s;
+
 }
 .nm-2:hover::after {
   content: "";
@@ -364,6 +390,19 @@ a:hover {
   margin-left: 40px;
   height: 4px;
   background-color: #db2777;
+  transition: all 0.24s;
+
+}
+.nm-3::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+  transition: all 0.24s;
+
 }
 .nm-3:hover::after {
   content: "";
@@ -373,6 +412,19 @@ a:hover {
   margin-left: 40px;
   height: 4px;
   background-color: #db2777;
+  transition: all 0.24s;
+
+}
+.nm-4::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+  transition: all 0.24s;
+
 }
 .nm-4:hover::after {
   content: "";
@@ -382,6 +434,19 @@ a:hover {
   margin-left: 40px;
   height: 4px;
   background-color: #db2777;
+  transition: all 0.24s;
+
+}
+.nm-5::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+  transition: all 0.24s;
+
 }
 .nm-5:hover::after {
   content: "";
@@ -391,6 +456,18 @@ a:hover {
   margin-left: 40px;
   height: 4px;
   background-color: #db2777;
+  transition: all 0.24s;
+
+}
+.nm-6::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+  transition: all 0.24s;
 }
 .nm-6:hover::after {
   content: "";
