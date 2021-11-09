@@ -30,6 +30,7 @@
             <p>NFT stands for ‘Non-Fungible Token’. It is a digital asset that links ownership to unique physical or digital items, such as works of art, music, videos, etc. NFTs can be considered modern-day collectibles.</p>
           </div>
         </div>
+
         <div class="tab">
           <input type="radio" id="rd2" name="rd" />
           <label class="tab-label" for="rd2">Who is behind the Insidious Jokers?</label>
