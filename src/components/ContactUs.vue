@@ -30,7 +30,7 @@
           style="
             background-image: url('https://cdn.pixabay.com/photo/2016/02/07/21/03/computer-1185626_960_720.jpg');
           "
-          title="Woman holding a mug"
+          title="Woman typing with laptop"
         ></div>
         <div
           class="
