@@ -169,9 +169,9 @@ onMounted(() => {
         ></i>
       </a>
       <a
+      style="margin-left:2px;"
         class="
           icon-cover
-          ml-2.5
           p-3
           transition
           duration-300
@@ -186,9 +186,9 @@ onMounted(() => {
         ></i>
       </a>
       <a
+      style="margin-left: 1px;"
         class="
           icon-cover
-          ml-2.5
           transition
           duration-300
           hover:bg-pink-800
