@@ -108,7 +108,7 @@
             alt="Shahzain Gill"
           />
           <h1>Shahzain Gill</h1>
-          <p>Content Creator</p>
+          <p>MD & Content Creator</p>
                     <div class="contact-team flex">
              <div
              style="margin-left: 0;"
