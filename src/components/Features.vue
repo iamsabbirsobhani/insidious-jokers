@@ -11,7 +11,13 @@
           >
         </h1>
         <p
-          class="text-gray-300 mt-5 leading-9 tracking-wide subpixel-antialiased"
+          class="
+            text-gray-300
+            mt-5
+            leading-9
+            tracking-wide
+            subpixel-antialiased
+          "
           style="font-weight: normal; font-size: 20px"
         >
           The Insidious Jokers collection has over 80 accessories and 9
@@ -44,6 +50,13 @@ export default {};
 .left {
   img {
     width: 516px;
+    border-radius: 10px;
+    transition: all 0.24s;
+    box-shadow: 1px 2px 10px 5px rgba(161, 161, 161, 0.158);
+  }
+
+  img:hover {
+    transform: rotate(-1deg);
   }
 }
 .right {
