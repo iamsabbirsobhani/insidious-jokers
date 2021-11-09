@@ -63,7 +63,7 @@ onMounted(() => {
           <li><a class="nm-3" href="#ICRoadmap">ROADMAP</a></li>
           <li><a class="nm-4" href="#Team">TEAM</a></li>
           <li><a class="nm-5" href="#FAQ">FAQ</a></li>
-          <li><a class="nm-6" href="#contact">CONTACT</a></li>
+          <!-- <li><a class="nm-6" href="#contact">CONTACT</a></li> -->
         </ul>
       </section>
       <section class="third flex flex-row">
@@ -236,7 +236,7 @@ onMounted(() => {
       <li><a href="#ICRoadmap">ROADMAP</a></li>
       <li><a href="#Team">TEAM</a></li>
       <li><a href="#FAQ">FAQ</a></li>
-      <li><a href="#contact">CONTACT</a></li>
+      <!-- <li><a href="#contact">CONTACT</a></li> -->
     </ul>
     <form>
     <button
