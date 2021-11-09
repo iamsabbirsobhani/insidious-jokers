@@ -191,7 +191,7 @@ onMounted(() => {
           hover:bg-pink-700 hover:text-white
           w-12
           h-10
-          m-5
+          m-3
         "
       >
         <i class="fas fa-bars hover:text-white text-black text-3xl"></i>
