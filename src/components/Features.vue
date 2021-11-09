@@ -70,5 +70,16 @@ export default {};
   .features {
     flex-direction: column;
   }
+  .features-wrap {
+    max-width: 400px;
+  }
+  .right {
+    h1 {
+      font-size: 30px;
+    }
+    p {
+      font-size: 18px;
+    }
+  }
 }
 </style>

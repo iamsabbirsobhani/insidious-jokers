@@ -329,5 +329,8 @@
     margin-top: 4.5rem;
     margin-bottom: 4.5rem;
   }
+  .team-typo {
+    max-width: 300px;
+  }
 }
 </style>
