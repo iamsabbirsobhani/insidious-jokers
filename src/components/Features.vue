@@ -67,6 +67,9 @@ export default {};
   // .right {
   //   max-width: 620px;
   // }
+  .features-wrap {
+    margin-top: 20px;
+  }
   .features {
     flex-direction: column;
   }

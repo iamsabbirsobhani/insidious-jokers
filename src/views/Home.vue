@@ -18,8 +18,8 @@ import ContactUs from '../components/ContactUs.vue';
     <FrontPage/>
     <About/>
     <Features/>
-    <Team/>
     <Roadmap/>
+    <Team/>
     <FAQ/>
     <ContactUs/>
     <Footer/>

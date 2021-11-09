@@ -1,25 +1,32 @@
 <template>
-  <section class="front-page bg-no-repeat bg-top bg-auto bg-contain  md:bg-bottom-center  bg-front-banner">
-<!-- <img src="" alt=""> -->
+  <section
+    class="
+      front-page
+      bg-no-repeat bg-top bg-auto bg-contain
+      md:bg-bottom-center
+      bg-front-banner
+    "
+  >
+    <!-- <img src="" alt=""> -->
   </section>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style lang="scss" scoped>
 .front-page {
-    height: 100vh;
-    background-image: url('../assets/banner/newOne.png');
-    background-position: top center;
+  height: 100vh;
+  background-image: url("../assets/banner/newOne.png");
+  background-position: top center;
 }
 
 @media (max-width: 900px) {
-.front-page {
-  background: none;
-}
+  .front-page {
+    background: none;
+    margin: 0px;
+    height: 0px;
+  }
 }
 </style>

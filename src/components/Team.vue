@@ -261,6 +261,15 @@
   margin-bottom: 6.5rem;
 }
 
+.dp {
+  border: 1px solid rgba(128, 128, 128, 0.452);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 7px;
+  box-shadow: 1px 0px 5px 1px rgba(214, 214, 214, 0.164);
+}
+
 .our-team {
   display: flex;
   justify-content: space-around;
