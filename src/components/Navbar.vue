@@ -58,12 +58,12 @@ onMounted(() => {
       </section>
       <section class="second">
         <ul class="flex flex-row">
-          <li><a href="#ABout">ABOUT</a></li>
-          <li><a href="#FEatures">FEATURES</a></li>
-          <li><a href="#ICRoadmap">ROADMAP</a></li>
-          <li><a href="#Team">TEAM</a></li>
-          <li><a href="#FAQ">FAQ</a></li>
-          <li><a href="#contact">CONTACT</a></li>
+          <li><a class="nm-1" href="#ABout">ABOUT</a></li>
+          <li><a class="nm-2" href="#FEatures">FEATURES</a></li>
+          <li><a class="nm-3" href="#ICRoadmap">ROADMAP</a></li>
+          <li><a class="nm-4" href="#Team">TEAM</a></li>
+          <li><a class="nm-5" href="#FAQ">FAQ</a></li>
+          <li><a class="nm-6" href="#contact">CONTACT</a></li>
         </ul>
       </section>
       <section class="third flex flex-row">
@@ -135,13 +135,54 @@ onMounted(() => {
   </div>
 
   <div class="mobile-nav" :style="mobileNav">
-    <div class="nav-mobile-cover flex flex-row justify-between">
+    <div class="nav-mobile-cover flex flex-row justify-between items-center">
       <img
         src="../assets/ij_logo_negate.svg"
         class="w-16 m-2.5"
         alt="Insidious Jokers"
       />
-
+      <div
+        class="
+          icon-cover
+          ml-8
+          p-3
+          transition
+          duration-300
+          hover:bg-pink-800
+          cursor-pointer
+        "
+      >
+        <i
+          class="fab fa-instagram text-white text-xl font-bold cursor-pointer"
+        ></i>
+      </div>
+      <div
+        class="
+          icon-cover
+          ml-2.5
+          p-3
+          transition
+          duration-300
+          hover:bg-pink-800
+          cursor-pointer
+        "
+      >
+        <i
+          class="fab fa-twitter text-white text-xl font-bold cursor-pointer"
+        ></i>
+      </div>
+      <div
+        class="
+          icon-cover
+          ml-2.5
+          transition
+          duration-300
+          hover:bg-pink-800
+          cursor-pointer
+        "
+      >
+        <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
+      </div>
       <button
         @click="openNav"
         class="
@@ -178,6 +219,27 @@ onMounted(() => {
       <li><a href="#FAQ">FAQ</a></li>
       <li><a href="#contact">CONTACT</a></li>
     </ul>
+    <button
+      class="
+        bg-white
+        transition
+        duration-300
+        mr-3
+        mb-3
+        text-sm
+        font-bold
+        rounded-lg
+        hover:bg-pink-700 hover:text-white
+        w-52
+        h-10
+        mr-11
+        join
+        ml-7
+        mt-5
+      "
+    >
+      JOIN OUR DISCORD
+    </button>
   </nav>
 </template>
 
@@ -277,5 +339,60 @@ a:hover {
 .join:hover {
   background-color: #db2777 !important;
   color: white !important;
+}
+
+.nm-1:hover::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 50px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+}
+.nm-2:hover::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 75px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+}
+.nm-3:hover::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 75px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+}
+.nm-4:hover::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 45px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+}
+.nm-5:hover::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 28px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
+}
+.nm-6:hover::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 70px;
+  margin-left: 40px;
+  height: 4px;
+  background-color: #db2777;
 }
 </style>

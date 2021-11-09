@@ -268,6 +268,12 @@
   margin-bottom: 10px;
   border-radius: 7px;
   box-shadow: 1px 0px 5px 1px rgba(214, 214, 214, 0.164);
+  transition: all .24s;
+}
+
+.dp:hover {
+  transform: scale(1.02);
+  box-shadow: 1px 2px 10px 1px rgba(240, 255, 213, 0.315);
 }
 
 .our-team {

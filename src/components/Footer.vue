@@ -116,7 +116,7 @@
         </div>
       </div>
       <!-- <p class="term text-gray-50">Term of Service</p> -->
-      <p class="copyright text-pink-700">
+      <p class="copyright text-pink-700 font-bold">
         Copyright © 2021 Insidious Jokers. All Rights Reserved​
       </p>
     </div>
