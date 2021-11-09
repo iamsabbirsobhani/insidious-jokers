@@ -8,7 +8,7 @@
       />
       <div class="social-icon my-3">
         <div
-        style="padding: 16px;"
+        style="padding: 15px;"
           class="
             w-12
             h-12
