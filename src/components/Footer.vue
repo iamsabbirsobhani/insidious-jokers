@@ -7,8 +7,8 @@
         alt="Insidious Jokers"
       />
       <div class="social-icon my-3">
-        <div
-        style="padding: 15px;"
+        <a
+          style="padding: 15px"
           class="
             w-12
             h-12
@@ -21,6 +21,8 @@
             hover:bg-pink-700
             cursor-pointer
           "
+          href="https://www.instagram.com/insidiousjokers/"
+          target="_blank"
         >
           <i
             class="
@@ -33,8 +35,8 @@
               cursor-pointer
             "
           ></i>
-        </div>
-        <div
+        </a>
+        <a
           class="
             w-12
             h-12
@@ -42,13 +44,15 @@
             rounded-full
             icon-cover
             ml-2.5
-             bg-gray-600
+            bg-gray-600
             transition
             duration-300
             hover:bg-pink-700
             cursor-pointer
             hover:text-white
           "
+          href="https://twitter.com/InsidiousJokers"
+          target="_blank"
         >
           <i
             class="
@@ -61,25 +65,25 @@
               cursor-pointer
             "
           ></i>
-        </div>
+        </a>
 
-        <div
-        style="padding: 0.8rem;"
+        <a
+          style="padding: 0.8rem"
           class="
             w-12
             h-12
-
             rounded-full
             icon-cover
             ml-2.5
             transition
             duration-300
-             bg-gray-600
+            bg-gray-600
             hover:bg-violet-800
             cursor-pointer
-            hover:bg-pink-700
-            hover:text-white
+            hover:bg-pink-700 hover:text-white
           "
+          href="https://discord.gg/fYbdMA5fxX"
+          target="_blank"
         >
           <i
             class="
@@ -92,14 +96,13 @@
               cursor-pointer
             "
           ></i>
-        </div>
+        </a>
 
-        <div
-        style="padding: 0.8rem;"
+        <a
+          style="padding: 0.8rem"
           class="
             w-12
             h-12
-
             rounded-full
             icon-cover
             ml-2.5
@@ -108,12 +111,13 @@
             bg-gray-600
             hover:bg-violet-800
             cursor-pointer
-            hover:bg-pink-700
-            hover:text-white
+            hover:bg-pink-700 hover:text-white
           "
+          href="https://opensea.io/collection/insidious-jokers-collection"
+          target="_blank"
         >
-         <img src="../assets/Logomark-Transparent.svg" alt="">
-        </div>
+          <img src="../assets/Logomark-Transparent.svg" alt="" />
+        </a>
       </div>
       <!-- <p class="term text-gray-50">Term of Service</p> -->
       <p class="copyright text-pink-700 font-bold">
@@ -139,9 +143,9 @@ footer {
 }
 
 p {
-    margin-top: 10px !important;
-    font-size: 18px;
-    text-align: center;
+  margin-top: 10px !important;
+  font-size: 18px;
+  text-align: center;
 }
 
 .footer-cover {
@@ -158,8 +162,8 @@ p {
 }
 
 h1 {
-    color: gray;
-    margin-top: 10px;
-    text-align: center;
+  color: gray;
+  margin-top: 10px;
+  text-align: center;
 }
 </style>

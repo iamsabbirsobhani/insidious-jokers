@@ -19,7 +19,7 @@
           <p>Founder</p>
 
           <div class="contact-team flex">
-            <div
+            <a
               style="margin-left: 0"
               class="
                 icon-cover
@@ -32,6 +32,8 @@
                 hover:bg-pink-800
                 cursor-pointer
               "
+              href="https://www.instagram.com/daniil_mikhailoff/"
+              target="_blank"
             >
               <i
                 class="
@@ -42,31 +44,7 @@
                   cursor-pointer
                 "
               ></i>
-            </div>
-            <div
-              style="margin-left: 0"
-              class="
-                icon-cover
-                ml-2.5
-                w-12
-                h-12
-                p-3
-                transition
-                duration-300
-                hover:bg-pink-800
-                cursor-pointer
-              "
-            >
-              <i
-                class="
-                  fas
-                  fa-envelope-square
-                  text-white text-xl
-                  font-bold
-                  cursor-pointer
-                "
-              ></i>
-            </div>
+            </a>
           </div>
         </div>
         <div class="dp">
@@ -79,7 +57,7 @@
           <p>Co-founder</p>
 
           <div class="contact-team flex">
-            <div
+            <a
               style="margin-left: 0"
               class="
                 icon-cover
@@ -92,6 +70,8 @@
                 hover:bg-pink-800
                 cursor-pointer
               "
+              href="https://www.instagram.com/_motyan_/"
+              target="_blank"
             >
               <i
                 class="
@@ -102,31 +82,7 @@
                   cursor-pointer
                 "
               ></i>
-            </div>
-            <div
-              style="margin-left: 0"
-              class="
-                icon-cover
-                ml-2.5
-                w-12
-                h-12
-                p-3
-                transition
-                duration-300
-                hover:bg-pink-800
-                cursor-pointer
-              "
-            >
-              <i
-                class="
-                  fas
-                  fa-envelope-square
-                  text-white text-xl
-                  font-bold
-                  cursor-pointer
-                "
-              ></i>
-            </div>
+            </a>
           </div>
         </div>
         <div class="dp">
@@ -138,7 +94,7 @@
           <h1>Shahzain Gill</h1>
           <p>MD & Content Creator</p>
           <div class="contact-team flex">
-            <div
+            <a
               style="margin-left: 0"
               class="
                 icon-cover
@@ -151,6 +107,8 @@
                 hover:bg-pink-800
                 cursor-pointer
               "
+              href="https://www.instagram.com/gillshahzain/"
+              target="_blank"
             >
               <i
                 class="
@@ -161,31 +119,7 @@
                   cursor-pointer
                 "
               ></i>
-            </div>
-            <div
-              style="margin-left: 0"
-              class="
-                icon-cover
-                ml-2.5
-                w-12
-                h-12
-                p-3
-                transition
-                duration-300
-                hover:bg-pink-800
-                cursor-pointer
-              "
-            >
-              <i
-                class="
-                  fas
-                  fa-envelope-square
-                  text-white text-xl
-                  font-bold
-                  cursor-pointer
-                "
-              ></i>
-            </div>
+            </a>
           </div>
         </div>
         <div class="dp">
@@ -198,7 +132,7 @@
           <p>Head Designer</p>
 
           <div class="contact-team flex">
-            <div
+            <a
               style="margin-left: 0"
               class="
                 icon-cover
@@ -211,6 +145,8 @@
                 hover:bg-pink-800
                 cursor-pointer
               "
+              href="https://www.instagram.com/artyzdaniel/"
+              target="_blank"
             >
               <i
                 class="
@@ -221,31 +157,7 @@
                   cursor-pointer
                 "
               ></i>
-            </div>
-            <div
-              style="margin-left: 0"
-              class="
-                icon-cover
-                ml-2.5
-                w-12
-                h-12
-                p-3
-                transition
-                duration-300
-                hover:bg-pink-800
-                cursor-pointer
-              "
-            >
-              <i
-                class="
-                  fas
-                  fa-envelope-square
-                  text-white text-xl
-                  font-bold
-                  cursor-pointer
-                "
-              ></i>
-            </div>
+            </a>
           </div>
         </div>
       </div>
@@ -268,7 +180,7 @@
   margin-bottom: 10px;
   border-radius: 7px;
   box-shadow: 1px 0px 5px 1px rgba(214, 214, 214, 0.164);
-  transition: all .24s;
+  transition: all 0.24s;
 }
 
 .dp:hover {

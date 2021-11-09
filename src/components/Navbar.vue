@@ -67,7 +67,7 @@ onMounted(() => {
         </ul>
       </section>
       <section class="third flex flex-row">
-        <div
+        <a
           class="
             icon-cover
             ml-8
@@ -77,12 +77,14 @@ onMounted(() => {
             hover:bg-pink-800
             cursor-pointer
           "
+          href="https://www.instagram.com/insidiousjokers/"
+          target="_blank"
         >
           <i
             class="fab fa-instagram text-white text-xl font-bold cursor-pointer"
           ></i>
-        </div>
-        <div
+        </a>
+        <a
           class="
             icon-cover
             ml-2.5
@@ -91,13 +93,16 @@ onMounted(() => {
             duration-300
             hover:bg-pink-800
             cursor-pointer
+
           "
+           href="https://twitter.com/InsidiousJokers"
+          target="_blank"
         >
           <i
             class="fab fa-twitter text-white text-xl font-bold cursor-pointer"
           ></i>
-        </div>
-        <div
+        </a>
+        <a
           class="
             icon-cover
             ml-2.5
@@ -106,11 +111,14 @@ onMounted(() => {
             hover:bg-pink-800
             cursor-pointer
           "
+          href="https://opensea.io/collection/insidious-jokers-collection"
+          target="_blank"
         >
           <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
-        </div>
+        </a>
       </section>
       <section class="last">
+        <form class="mt-3">
         <button
           class="
             bg-white
@@ -127,9 +135,12 @@ onMounted(() => {
             mr-11
             join
           "
+          type="submit"
+          formaction="https://discord.gg/fYbdMA5fxX"
         >
           JOIN OUR DISCORD
         </button>
+        </form>
       </section>
     </nav>
   </div>
