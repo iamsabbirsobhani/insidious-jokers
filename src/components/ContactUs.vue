@@ -63,7 +63,7 @@
               Have your say?
             </div>
             <p class="text-gray-700 text-base">
-              Please let us know your experience?
+              Please let us know your experience.
             </p>
 
             <div class="w-full max-w-xs">
