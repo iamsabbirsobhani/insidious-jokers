@@ -101,14 +101,13 @@ onMounted(() => {
           class="
             icon-cover
             ml-2.5
-
             transition
             duration-300
             hover:bg-pink-800
             cursor-pointer
           "
         >
-          <img src="../assets/Logomark-Transparent.svg" class="" alt="">
+          <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
         </div>
       </section>
       <section class="last">
@@ -122,8 +121,7 @@ onMounted(() => {
             text-sm
             font-bold
             rounded-lg
-            hover:bg-pink-700
-            hover:text-white
+            hover:bg-pink-700 hover:text-white
             w-52
             h-10
             mr-11
@@ -173,12 +171,12 @@ onMounted(() => {
       <i class="fas fa-times hover:text-white text-black text-3xl"></i>
     </button>
     <ul class="flex flex-col">
-      <li><a href="#">ABOUT</a></li>
-      <li><a href="#">FEATURES</a></li>
-      <li><a href="#">ROADMAP</a></li>
-      <li><a href="#">TEAM</a></li>
-      <li><a href="#">FAQ</a></li>
-      <li><a href="#">CONTACT</a></li>
+      <li><a href="#ABout">ABOUT</a></li>
+      <li><a href="#FEatures">FEATURES</a></li>
+      <li><a href="#ICRoadmap">ROADMAP</a></li>
+      <li><a href="#Team">TEAM</a></li>
+      <li><a href="#FAQ">FAQ</a></li>
+      <li><a href="#contact">CONTACT</a></li>
     </ul>
   </nav>
 </template>
@@ -277,7 +275,7 @@ a:hover {
   color: black;
 }
 .join:hover {
-  background-color: #DB2777 !important;
+  background-color: #db2777 !important;
   color: white !important;
 }
 </style>

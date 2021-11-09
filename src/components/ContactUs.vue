@@ -184,4 +184,15 @@ export default {};
 //     max-width: 300px;
 //   }
 // }
+
+@media (max-width: 900px) {
+    .contact {
+        width: 900px;
+    }
+}
+@media (max-width: 600px) {
+    .contact {
+        width: 300px;
+    }
+}
 </style>

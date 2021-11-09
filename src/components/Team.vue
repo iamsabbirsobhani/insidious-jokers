@@ -4,7 +4,8 @@
       <div class="team-typo">
         <h1 class="text-white text-4xl">Meet Our Team</h1>
         <p class="text-white text-2xl">
-          Each member of our team is truly passionate and dedicated to the Insidious Jokers which will ensure success
+          Each member of our team is truly passionate and dedicated to the
+          Insidious Jokers which will ensure success
         </p>
       </div>
       <div class="team-dp">
@@ -18,41 +19,55 @@
           <p>Founder</p>
 
           <div class="contact-team flex">
-             <div
-             style="margin-left: 0;"
-          class="
-            icon-cover
-            ml-2.5
-
-            w-12
-            h-12
-            p-3
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-        >
-          <i class="fab fa-instagram text-white text-xl font-bold cursor-pointer"></i>
-        </div>
-             <div
-             style="margin-left: 0;"
-          class="
-            icon-cover
-            ml-2.5
-
-            w-12
-            h-12
-            p-3
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-        >
-          <i class="fas fa-envelope-square text-white text-xl font-bold cursor-pointer"></i>
-        </div>
-        </div>
+            <div
+              style="margin-left: 0"
+              class="
+                icon-cover
+                ml-2.5
+                w-12
+                h-12
+                p-3
+                transition
+                duration-300
+                hover:bg-pink-800
+                cursor-pointer
+              "
+            >
+              <i
+                class="
+                  fab
+                  fa-instagram
+                  text-white text-xl
+                  font-bold
+                  cursor-pointer
+                "
+              ></i>
+            </div>
+            <div
+              style="margin-left: 0"
+              class="
+                icon-cover
+                ml-2.5
+                w-12
+                h-12
+                p-3
+                transition
+                duration-300
+                hover:bg-pink-800
+                cursor-pointer
+              "
+            >
+              <i
+                class="
+                  fas
+                  fa-envelope-square
+                  text-white text-xl
+                  font-bold
+                  cursor-pointer
+                "
+              ></i>
+            </div>
+          </div>
         </div>
         <div class="dp">
           <img
@@ -63,43 +78,56 @@
           <h1>Matvey Kuzmenko</h1>
           <p>Co-founder</p>
 
-
-                    <div class="contact-team flex">
-             <div
-             style="margin-left: 0;"
-          class="
-            icon-cover
-            ml-2.5
-
-            w-12
-            h-12
-            p-3
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-        >
-          <i class="fab fa-instagram text-white text-xl font-bold cursor-pointer"></i>
-        </div>
-             <div
-             style="margin-left: 0;"
-          class="
-            icon-cover
-            ml-2.5
-
-            w-12
-            h-12
-            p-3
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-        >
-          <i class="fas fa-envelope-square text-white text-xl font-bold cursor-pointer"></i>
-        </div>
-        </div>
+          <div class="contact-team flex">
+            <div
+              style="margin-left: 0"
+              class="
+                icon-cover
+                ml-2.5
+                w-12
+                h-12
+                p-3
+                transition
+                duration-300
+                hover:bg-pink-800
+                cursor-pointer
+              "
+            >
+              <i
+                class="
+                  fab
+                  fa-instagram
+                  text-white text-xl
+                  font-bold
+                  cursor-pointer
+                "
+              ></i>
+            </div>
+            <div
+              style="margin-left: 0"
+              class="
+                icon-cover
+                ml-2.5
+                w-12
+                h-12
+                p-3
+                transition
+                duration-300
+                hover:bg-pink-800
+                cursor-pointer
+              "
+            >
+              <i
+                class="
+                  fas
+                  fa-envelope-square
+                  text-white text-xl
+                  font-bold
+                  cursor-pointer
+                "
+              ></i>
+            </div>
+          </div>
         </div>
         <div class="dp">
           <img
@@ -109,42 +137,56 @@
           />
           <h1>Shahzain Gill</h1>
           <p>MD & Content Creator</p>
-                    <div class="contact-team flex">
-             <div
-             style="margin-left: 0;"
-          class="
-            icon-cover
-            ml-2.5
-
-            w-12
-            h-12
-            p-3
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-        >
-          <i class="fab fa-instagram text-white text-xl font-bold cursor-pointer"></i>
-        </div>
-             <div
-             style="margin-left: 0;"
-          class="
-            icon-cover
-            ml-2.5
-
-            w-12
-            h-12
-            p-3
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-        >
-          <i class="fas fa-envelope-square text-white text-xl font-bold cursor-pointer"></i>
-        </div>
-        </div>
+          <div class="contact-team flex">
+            <div
+              style="margin-left: 0"
+              class="
+                icon-cover
+                ml-2.5
+                w-12
+                h-12
+                p-3
+                transition
+                duration-300
+                hover:bg-pink-800
+                cursor-pointer
+              "
+            >
+              <i
+                class="
+                  fab
+                  fa-instagram
+                  text-white text-xl
+                  font-bold
+                  cursor-pointer
+                "
+              ></i>
+            </div>
+            <div
+              style="margin-left: 0"
+              class="
+                icon-cover
+                ml-2.5
+                w-12
+                h-12
+                p-3
+                transition
+                duration-300
+                hover:bg-pink-800
+                cursor-pointer
+              "
+            >
+              <i
+                class="
+                  fas
+                  fa-envelope-square
+                  text-white text-xl
+                  font-bold
+                  cursor-pointer
+                "
+              ></i>
+            </div>
+          </div>
         </div>
         <div class="dp">
           <img
@@ -155,42 +197,56 @@
           <h1>Daniel Amegan</h1>
           <p>Head Designer</p>
 
-                    <div class="contact-team flex">
-             <div
-             style="margin-left: 0;"
-          class="
-            icon-cover
-            ml-2.5
-
-            w-12
-            h-12
-            p-3
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-        >
-          <i class="fab fa-instagram text-white text-xl font-bold cursor-pointer"></i>
-        </div>
-             <div
-             style="margin-left: 0;"
-          class="
-            icon-cover
-            ml-2.5
-
-            w-12
-            h-12
-            p-3
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-        >
-          <i class="fas fa-envelope-square text-white text-xl font-bold cursor-pointer"></i>
-        </div>
-        </div>
+          <div class="contact-team flex">
+            <div
+              style="margin-left: 0"
+              class="
+                icon-cover
+                ml-2.5
+                w-12
+                h-12
+                p-3
+                transition
+                duration-300
+                hover:bg-pink-800
+                cursor-pointer
+              "
+            >
+              <i
+                class="
+                  fab
+                  fa-instagram
+                  text-white text-xl
+                  font-bold
+                  cursor-pointer
+                "
+              ></i>
+            </div>
+            <div
+              style="margin-left: 0"
+              class="
+                icon-cover
+                ml-2.5
+                w-12
+                h-12
+                p-3
+                transition
+                duration-300
+                hover:bg-pink-800
+                cursor-pointer
+              "
+            >
+              <i
+                class="
+                  fas
+                  fa-envelope-square
+                  text-white text-xl
+                  font-bold
+                  cursor-pointer
+                "
+              ></i>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -262,9 +318,16 @@
   }
 }
 
+.contact-team {
+  margin-bottom: 20px;
+}
 @media (max-width: 900px) {
   .team-dp {
     flex-direction: column;
+  }
+  .team-wrap {
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
   }
 }
 </style>
