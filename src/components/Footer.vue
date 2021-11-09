@@ -3,22 +3,22 @@
     <div class="footer-cover">
       <img
         src="../assets/ij_logo_negate.svg"
-        class="w-32 object"
+        class="w-32 object my-3"
         alt="Insidious Jokers"
       />
-      <div class="social-icon">
+      <div class="social-icon my-3">
         <div
+        style="padding: 1rem;"
           class="
             w-12
             h-12
-            p-4
             rounded-full
             icon-cover
             bg-gray-50
             hover:text-white
             transition
             duration-300
-            hover:bg-violet-800
+            hover:bg-pink-700
             cursor-pointer
           "
         >
@@ -38,14 +38,14 @@
           class="
             w-12
             h-12
-            p-4
+            p-3
             rounded-full
             icon-cover
             ml-2.5
             bg-gray-50
             transition
             duration-300
-            hover:bg-violet-800
+            hover:bg-pink-700
             cursor-pointer
             hover:text-white
           "
@@ -64,10 +64,11 @@
         </div>
 
         <div
+        style="padding: 0.8rem;"
           class="
             w-12
             h-12
-            p-3
+
             rounded-full
             icon-cover
             ml-2.5
@@ -76,6 +77,7 @@
             bg-gray-50
             hover:bg-violet-800
             cursor-pointer
+            hover:bg-pink-700
             hover:text-white
           "
         >
@@ -93,7 +95,7 @@
         </div>
       </div>
       <p class="term text-gray-50">Term of Service</p>
-      <p class="copyright text-violet-700">
+      <p class="copyright text-pink-700">
         Copyright © 2021 Insidious Jokers. All Rights Reserved​
       </p>
     </div>

@@ -71,9 +71,10 @@ onMounted(() => {
           class="
             icon-cover
             ml-8
+            p-3
             transition
             duration-300
-            hover:bg-violet-800
+            hover:bg-pink-800
             cursor-pointer
           "
         >
@@ -85,9 +86,10 @@ onMounted(() => {
           class="
             icon-cover
             ml-2.5
+            p-3
             transition
             duration-300
-            hover:bg-violet-800
+            hover:bg-pink-800
             cursor-pointer
           "
         >
@@ -107,7 +109,7 @@ onMounted(() => {
             text-sm
             font-bold
             rounded-lg
-            hover:bg-violet-700
+            hover:bg-pink-700
             hover:text-white
             w-52
             h-10
@@ -134,7 +136,7 @@ onMounted(() => {
         class="
           bg-gray-50
           rounded-lg
-          hover:bg-violet-700 hover:text-white
+          hover:bg-pink-700 hover:text-white
           w-12
           h-10
           m-5
@@ -151,7 +153,7 @@ onMounted(() => {
         bg-gray-50
         ml-48
         rounded-lg
-        hover:bg-violet-700 hover:text-white
+        hover:bg-pink-700 hover:text-white
         w-10
       "
     >
@@ -262,7 +264,7 @@ a:hover {
   color: black;
 }
 .join:hover {
-  background-color: #6D28D9 !important;
+  background-color: #DB2777 !important;
   color: white !important;
 }
 </style>

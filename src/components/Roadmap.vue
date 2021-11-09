@@ -5,7 +5,7 @@
         <div class="ic-section-title center">
           <h1
             class="wow fadeInUp animated text-4xl"
-            style="visibility: visible"
+            style="visibility: visible; font-size:36px; font-weight: bold; font-family: 'Poppins';"
           >
             ROADMAP
           </h1>
@@ -125,7 +125,7 @@
                           >3rd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 5 Super Rare NFTs</span
+                          >Giveaway of 5 Super Rare NFTs.</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">

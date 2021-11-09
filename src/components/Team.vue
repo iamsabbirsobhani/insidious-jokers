@@ -4,17 +4,15 @@
       <div class="team-typo">
         <h1 class="text-white text-4xl">Meet Our Team</h1>
         <p class="text-white text-2xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae qui
-          voluptatum maiores quia voluptatem neque non? Quis qui veniam optio,
-          commodi esse earum eos hic!
+          Each member of our team is truly passionate and dedicated to the Insidious Jokers which will ensure success
         </p>
       </div>
       <div class="team-dp">
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/forwebsite/1.png"
-            alt="chick"
+            src="../assets/TeamPictures/DanielAmegan.png"
+            alt="Daniel Amegan"
           />
           <h1>Daniil Mikhailov</h1>
           <p>Founder</p>
@@ -22,8 +20,8 @@
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/forwebsite/2.png"
-            alt="enemy"
+            src="../assets/TeamPictures/Matvey.png"
+            alt="Matvey Kuzmenko"
           />
           <h1>Matvey Kuzmenko</h1>
           <p>Co-founder</p>
@@ -31,17 +29,17 @@
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/forwebsite/3.png"
-            alt="penguin"
+            src="../assets/TeamPictures/Shahzain.png"
+            alt="Shahzain Gill"
           />
           <h1>Shahzain Gill</h1>
-          <p>Promoter</p>
+          <p>Content Creator</p>
         </div>
         <div class="dp">
           <img
             class="team-img w-72"
-            src="../assets/forwebsite/4.png"
-            alt="raphael"
+            src="../assets/TeamPictures/Daniil.png"
+            alt="Daniel Amegan"
           />
           <h1>Daniel Amegan</h1>
           <p>Head Designer</p>

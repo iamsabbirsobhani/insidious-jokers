@@ -7,11 +7,21 @@
       <div class="right p-5 text-4xl font-bold text-gray-50">
         <h1>
           <span class="text-pink-600">
-            Over 80 hand-drawn items. Your Joker will be unique.</span
+            Over 80 hand-drawn items. Your Joker will be one of a kind</span
           >
         </h1>
-        <p class="text-gray-300 mt-5" style="font-weight: normal; font-size: 20px;">
-          The Insidious Jokers collection has over 80 various items – <span class="text-pink-600">different backgrounds, outfits, hats, accessories, face patterns, smiles, eyes,</span> and many more. Each single item was carefully drawn by our professional designers.
+        <p
+          class="text-gray-300 mt-5"
+          style="font-weight: normal; font-size: 20px"
+        >
+          The Insidious Jokers collection has over 80 accessories and 9
+          properties which determine the rarity of your joker. Properties
+          include<span class="text-pink-600">
+            skin tone, backgrounds, outfits, hats, accessories, face patterns,
+            smiles, noses, and eyes.</span
+          >
+          Each piece was precisely drawn by our talented team of professional
+          and highly qualified designers.
         </p>
       </div>
     </section>

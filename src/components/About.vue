@@ -7,14 +7,12 @@
         </h1>
         <p class="text-gray-300 text-xl mt-5">
           The Insidious Jokers is a collection of 10,000 unique hand-drawn
-          jokers.<span class="text-pink-500"
-            >There is no other collection of jokers or clowns on the
-            market.</span
+          characters. What makes us truly unique is that
+          <span class="text-pink-500"
+            >this is the first collection of jokers on the market.</span
           >
-          We are the first to launch the product in this niche. The Insidious
-          Jokers will make history.
-          <!-- <br> -->
-          Join our ambitious community by connecting to our discord server now.
+          Join the the Insidious Jokers and make history with us. Get jokered
+          with us.
         </p>
       </div>
       <div class="right p-5">

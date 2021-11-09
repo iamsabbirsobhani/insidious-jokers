@@ -35,14 +35,14 @@
           <input type="radio" id="rd2" name="rd" />
           <label class="tab-label" for="rd2">Who is behind the Insidious Jokers?</label>
           <div class="tab-content">
-            <p>We are a multinational team of 4 representing the following countries: Russia, Canada, UAE, and Pakistan. We have the best designer, the best promoter & crypto expert, the best co-founder, and the best founder!</p>
+            <p>We are a multinational team of 4 representing the following countries: Russia, Canada, UAE, and Pakistan. Each member of our team is truly passionate and dedicated to the Insidious Jokers which will ensure success.</p>
           </div>
         </div>
         <div class="tab">
           <input type="radio" id="rd4" name="rd" />
           <label class="tab-label" for="rd4">How do I get my Joker?</label>
           <div class="tab-content">
-            <p>The images as well as the metadata will be released during our official launch. Please </p>
+            <p>The images as well as the metadata will be listed on OpenSea once our official launch date arrives. To stay updated, check out our social media accounts.</p>
           </div>
         </div>
         <div class="tab">
@@ -56,7 +56,7 @@
           <input type="radio" id="rd6" name="rd" />
           <label class="tab-label" for="rd6">Is there a presale?</label>
           <div class="tab-content">
-            <p>No, for the first collection there is no presale. However, there will be presale for our second collection that will come out soon! Join our discord and social media to stay updated!</p>
+            <p>No, for the first collection there is no presale. However, there will be presale for our second collection that will be released once the first collection is sold out. Join our discord and social media to stay updated!</p>
           </div>
         </div>
         <div class="tab">
