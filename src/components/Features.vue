@@ -23,7 +23,7 @@
           The Insidious Jokers collection has over 80 accessories and 9
           properties which determine the rarity of your joker. Properties
           include<span class="text-pink-600">
-            skin tone, backgrounds, outfits, hats, accessories, face patterns,
+            skin tone, backgrounds, outfits, hats, accessories, face tattoos,
             smiles, noses, and eyes.</span
           >
           Each piece was precisely drawn by our talented team of professional
