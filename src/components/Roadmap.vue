@@ -33,7 +33,7 @@
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Before starting our public sale, we need to build audience, get people familiar with our product, and build trust between us and our audience.
+                          Before starting our public sale, we need to build an audience, get people familiar with our product, and build trust between us and our audience.
                         </li>
                       </ul>
                     </div>
