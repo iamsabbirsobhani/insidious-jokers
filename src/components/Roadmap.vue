@@ -48,8 +48,7 @@
                           >2nd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 50 NFTs with total worth of
-                          $10,000</span
+                          >Giveaway of 50 NFTs</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
