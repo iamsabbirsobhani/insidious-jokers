@@ -140,14 +140,12 @@
                           >4th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Official launch of the collection on OpenSea (Date
-                          will be announced soon)</span
+                          >Presale</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A portion of ETH from the sale will be donated to
-                          charity.
+                          Discord members who are qualified to presale slots will be able to take part in presales.
                         </li>
                       </ul>
                     </div>
@@ -189,13 +187,12 @@
                           >5th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >2nd Unique Collection of Jokers</span
+                          >Public Sale on OpenSea (Date will be announced soon)</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Giveaways, presale period, and official launch. Date
-                          will be announced soon. More milestones coming soon…
+                          A portion of ETH will be donated to charity. For more information connect to our discord and follow us on social media.
                         </li>
                       </ul>
                     </div>
