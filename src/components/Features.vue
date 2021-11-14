@@ -7,7 +7,7 @@
       <div class="right p-5 text-4xl font-bold text-gray-50">
         <h1>
           <span class="text-pink-600">
-            Over 80 hand-drawn items. Your Joker will be one of a kind</span
+            Over 100 hand-drawn items. Your Joker will be one of a kind</span
           >
         </h1>
         <p
