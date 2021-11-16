@@ -19,7 +19,7 @@
           <span class="text-pink-500"
             >this is the first collection of jokers on the market.</span
           >
-          Join the the Insidious Jokers and make history with us. Get jokered
+          Join the Insidious Jokers and make history with us. Get jokered
           with us.
         </p>
       </div>

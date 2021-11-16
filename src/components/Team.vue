@@ -16,7 +16,7 @@
             alt="Daniel Amegan"
           />
           <h1>Daniil Mikhailov</h1>
-          <p>Founder</p>
+          <p>Founder & CEO</p>
 
           <div class="contact-team flex">
             <a
