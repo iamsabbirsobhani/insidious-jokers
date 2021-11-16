@@ -119,7 +119,7 @@
                 </div>
               </div>
             </div>
-            <div class="roadmap-wrap roadmap-wrap-s1 mb-0">
+            <div :style="desktopMap" class="roadmap-wrap roadmap-wrap-s1 mb-0">
               <div class="row flex-row-reverse no-gutters">
                 <div class="col-lg">
                   <div class="roadmap roadmap-s1 text-lg-center">
@@ -158,6 +158,52 @@
                         <li>
                           🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
                           WILL BE ABLE TO TAKE PART IN PRESALES 🎉
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div :style="mobileMap" class="roadmap-wrap roadmap-wrap-s1 mb-0">
+              <div class="row flex-row-reverse no-gutters">
+                <div class="col-lg">
+                  <div class="roadmap roadmap-s1 text-lg-center">
+                    <div class="roadmap-step roadmap-step-s1">
+                      <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-time roadmap-time-s1"
+                          >5th milestone</span
+                        >
+                        <span class="roadmap-title roadmap-title-s1"
+                          >Presales</span
+                        >
+                      </div>
+                      <ul class="roadmap-step-list-s1 text-white">
+                        <li>
+                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
+                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg">
+                  <div class="roadmap roadmap-s1 text-lg-center">
+                    <div class="roadmap-step roadmap-step-s1">
+                      <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-phase text-danger">&nbsp;</span>
+                        <span class="roadmap-time roadmap-time-s1"
+                          >6th milestone</span
+                        >
+                        <span class="roadmap-title roadmap-title-s1"
+                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
+                          WILL BE ANNOUNCED SOON) 🎉
+                        </span>
+                      </div>
+                      <ul class="roadmap-step-list-s1 text-white">
+                        <li>
+                          A portion of ETH from the sale will be donated to
+                          charity. 🤝
                         </li>
                       </ul>
                     </div>
@@ -221,8 +267,31 @@
   </div>
 </template>
 
-<script>
-export default {};
+<script setup>
+import { onMounted, ref } from "@vue/runtime-core";
+
+const windWidth = ref(null);
+const desktopMap = ref(null);
+const mobileMap = ref(null);
+onMounted(() => {
+  windWidth.value = window.innerWidth;
+  if (windWidth.value > 900) {
+    desktopMap.value = {
+      display: "block",
+    };
+    mobileMap.value = {
+      display: "none",
+    };
+  } else if (900 > windWidth.value) {
+    mobileMap.value = {
+      display: "block",
+    };
+    desktopMap.value = {
+      display: "none",
+    };
+  }
+  console.log(windWidth.value);
+});
 </script>
 
 <style lang="scss" scoped>
