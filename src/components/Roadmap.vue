@@ -33,7 +33,7 @@
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Before starting our public sale, we need to build audience, get people familiar with our product, and build trust between us and our audience.
+                          Before starting our public sale, we need to build an audience, get people familiar with our product, and build trust between us and our audience.
                         </li>
                       </ul>
                     </div>
@@ -48,8 +48,7 @@
                           >2nd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 50 NFTs with total worth of
-                          $10,000</span
+                          >Giveaway of 50 NFTs</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
@@ -141,14 +140,12 @@
                           >4th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Official launch of the collection on OpenSea (Date
-                          will be announced soon)</span
+                          >Presale</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A portion of ETH from the sale will be donated to
-                          charity.
+                          Discord members who are qualified to presale slots will be able to take part in presales.
                         </li>
                       </ul>
                     </div>
@@ -190,13 +187,12 @@
                           >5th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >2nd Unique Collection of Jokers</span
+                          >Public Sale on OpenSea (Date will be announced soon)</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Giveaways, presale period, and official launch. Date
-                          will be announced soon. More milestones coming soon…
+                          A portion of ETH will be donated to charity. For more information connect to our discord and follow us on social media.
                         </li>
                       </ul>
                     </div>
