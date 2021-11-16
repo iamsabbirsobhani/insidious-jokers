@@ -5,7 +5,12 @@
         <div class="ic-section-title center">
           <h1
             class="wow fadeInUp animated text-4xl"
-            style="visibility: visible; font-size:36px; font-weight: bold; font-family: 'Poppins';"
+            style="
+              visibility: visible;
+              font-size: 36px;
+              font-weight: bold;
+              font-family: 'Poppins';
+            "
           >
             ROADMAP
           </h1>
@@ -14,8 +19,7 @@
           class="wow fadeInUp mt-4 text-center fs-20 animated"
           data-wow-delay=".1s"
           style="visibility: visible; animation-delay: 0.1s"
-        >
-        </p>
+        ></p>
         <div class="ic-roadmap-content pt-4">
           <div class="roadmap-all">
             <div class="roadmap-wrap roadmap-wrap-s1 mb-0">
@@ -27,13 +31,17 @@
                         <span class="roadmap-time roadmap-time-s1"
                           >1st milestone</span
                         >
-                        <span class="roadmap-title roadmap-title-s1 text-white"
+                        <span
+                          style="text-transform: uppercase"
+                          class="roadmap-title roadmap-title-s1 text-white"
                           >Building an audience and spreading the word
                         </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Before starting our public sale, we need to build audience, get people familiar with our product, and build trust between us and our audience.
+                          Before starting our public sale, we need to build an
+                          audience, get people familiar with our product, and
+                          build trust between us and our audience. ⚡
                         </li>
                       </ul>
                     </div>
@@ -48,66 +56,19 @@
                           >2nd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 50 NFTs with total worth of
-                          $10,000</span
+                          >Giveaway of 50 NFTS with total worth of $10,000</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          For more details connect to our discord server and
-                          follow our social media accounts.
+                          For more details be active on our discord server and
+                          follow our social media accounts so no giveaways are
+                          missed out on. 🎁
                         </li>
                       </ul>
                     </div>
                   </div>
                 </div>
-                <!-- <div class="col-lg">
-                  <div class="roadmap roadmap-s1 roadmap-done text-lg-center">
-                    <div class="roadmap-step roadmap-step-s1">
-                      <div class="roadmap-head roadmap-head-s1">
-                        <span class="roadmap-time roadmap-time-s1"
-                          >Q4-2021</span
-                        >
-                        <span class="roadmap-title roadmap-title-s1"
-                          >50% SOLD</span
-                        >
-                      </div>
-                      <ul class="roadmap-step-list-s1 text-white">
-                        <li>
-                          A portion of ETH from the sale will be donated to SPCA
-                          International to support their work in saving animals
-                          lives around the world.
-                        </li>
-                        <a href="https://www.spcai.org" target="_blank"
-                          >https://www.spcai.org</a
-                        >
-                      </ul>
-                    </div>
-                  </div>
-                </div> -->
-                <!-- <div class="col-lg">
-                  <div
-                    class="roadmap roadmap-s1 roadmap-current text-lg-center"
-                  >
-                    <div class="roadmap-step roadmap-step-s1">
-                      <div class="roadmap-head roadmap-head-s1">
-                        <span class="roadmap-time roadmap-time-s1"
-                          >Q1-2022</span
-                        >
-                        <span class="roadmap-title roadmap-title-s1"
-                          >75% SOLD</span
-                        >
-                      </div>
-                      <ul class="roadmap-step-list-s1 text-white">
-                        <li>
-                          An exclusive CryptoPugs merch line is released. Hats,
-                          t-shirts and hoodies will be created and made
-                          available for purchase to CryptoPugs holders!
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div> -->
               </div>
             </div>
             <div class="roadmap-wrap roadmap-wrap-s1 mb-0">
@@ -121,13 +82,15 @@
                           >3rd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 5 Super Rare NFTs</span
-                        >
+                          >Electrifying collaborations
+                        </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          For more details connect to our discord server and
-                          follow our social media accounts.
+                          Collaborations and partnerships with influencers
+                          globally will also be held, allowing the insidious
+                          Family to expand and boom together at a rapid growth
+                          rate.
                         </li>
                       </ul>
                     </div>
@@ -141,47 +104,45 @@
                           >4th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Official launch of the collection on OpenSea (Date
-                          will be announced soon)</span
+                          >Giveaway of 5 super rare NFTS</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A portion of ETH from the sale will be donated to
-                          charity.
+                          For more details be active on our discord server and
+                          follow our social media accounts so no giveaways are
+                          missed out on. 💎
                         </li>
                       </ul>
                     </div>
                   </div>
                 </div>
-                <!-- <div class="col-lg">
+              </div>
+            </div>
+            <div class="roadmap-wrap roadmap-wrap-s1 mb-0">
+              <div class="row flex-row-reverse no-gutters">
+                <div class="col-lg">
                   <div class="roadmap roadmap-s1 text-lg-center">
                     <div class="roadmap-step roadmap-step-s1">
                       <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-phase text-danger">&nbsp;</span>
                         <span class="roadmap-time roadmap-time-s1"
-                          >Q4-2022</span
+                          >6th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Launch Version 3</span
-                        >
+                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
+                          WILL BE ANNOUNCED SOON) 🎉
+                        </span>
                       </div>
-                      <ul class="roadmap-step-list-s1">
+                      <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Release races: Dragon, Elf with full roles and
-                          elements
-                        </li>
-                        <li>
-                          Add a new gameplay to have players build and protect
-                          on their land
+                          A portion of ETH from the sale will be donated to
+                          charity. 🤝
                         </li>
                       </ul>
                     </div>
                   </div>
-                </div> -->
-              </div>
-            </div>
-            <div class="roadmap-wrap roadmap-wrap-s1 mb-0">
-              <div class="row no-gutters">
+                </div>
                 <div class="col-lg">
                   <div class="roadmap roadmap-s1 text-lg-center">
                     <div class="roadmap-step roadmap-step-s1">
@@ -190,13 +151,62 @@
                           >5th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >2nd Unique Collection of Jokers</span
+                          >Presales</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Giveaways, presale period, and official launch. Date
-                          will be announced soon. More milestones coming soon…
+                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
+                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="roadmap-wrap roadmap-wrap-s1 mb-0">
+              <div class="row flex-row-reverse no-gutters">
+                <div class="col-lg">
+                  <div class="roadmap roadmap-s1 text-lg-center">
+                    <div class="roadmap-step roadmap-step-s1">
+                      <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-phase text-danger">&nbsp;</span>
+                        <span class="roadmap-time roadmap-time-s1"
+                          >7th milestone</span
+                        >
+                        <span class="roadmap-title roadmap-title-s1"
+                          >EXCLUSIVE COMPETITIONS FOR INSIDIOUS HOLDERS
+                        </span>
+                      </div>
+                      <ul class="roadmap-step-list-s1 text-white">
+                        <li>
+                          Exclusive competitions will be hosted for Insidious
+                          Joker holders only, involving Ethereum, NFTs & Cash
+                          Giveaways. 💰
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg">
+                  <div class="roadmap roadmap-s1 text-lg-center">
+                    <div class="roadmap-step roadmap-step-s1">
+                      <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-time roadmap-time-s1"
+                          >8th milestone</span
+                        >
+                        <span class="roadmap-title roadmap-title-s1"
+                          >HOLDERS WILL BE INVITED TO GRAND PARTIES HELD IN
+                          DUBAI, UNITED ARAB EMIRATES</span
+                        >
+                      </div>
+                      <ul class="roadmap-step-list-s1 text-white">
+                        <li>
+                          Insidious Joker holders will be invited to private
+                          parties in Dubai where valuable connections will be
+                          found & made, taking your network and net-worth to the
+                          next level. 📈
                         </li>
                       </ul>
                     </div>
