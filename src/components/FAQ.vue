@@ -84,6 +84,7 @@ const toggle = (fid) => {
   max-width: 1250px;
   margin: auto;
 }
+
 .faq-title {
   cursor: pointer;
   padding: 10px;
@@ -94,6 +95,7 @@ const toggle = (fid) => {
   letter-spacing: 0.5px;
   padding: 15px;
   font-size: 18px;
+  box-shadow: 1px 1px 10px 1px #f3f4f623;
 }
 
 .fa-chevron-right {
@@ -111,7 +113,7 @@ const toggle = (fid) => {
 
 @media (max-width: 600px) {
   .faq {
-    max-width: 300px;
+    max-width: 350px;
     margin: auto;
   }
 }
