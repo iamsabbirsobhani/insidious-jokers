@@ -9,10 +9,11 @@
   >
     <!-- <img src="" alt=""> -->
   </section>
+  <ClickToTopBtnVue />
 </template>
 
-<script>
-export default {};
+<script setup>
+import ClickToTopBtnVue from "../subComponents/ClickToTopBtn.vue";
 </script>
 
 <style lang="scss" scoped>
