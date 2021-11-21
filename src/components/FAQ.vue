@@ -83,7 +83,6 @@ const toggle = (fid) => {
 .faq {
   max-width: 1250px;
   margin: auto;
-  border-radius: 10px !important;
 }
 .faq-title {
   cursor: pointer;
@@ -107,5 +106,13 @@ const toggle = (fid) => {
   line-height: 2;
   letter-spacing: 0.5px;
   padding: 15px;
+}
+
+
+@media (max-width: 600px) {
+  .faq {
+    max-width: 300px;
+    margin: auto;
+  }
 }
 </style>
