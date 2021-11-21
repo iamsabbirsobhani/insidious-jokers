@@ -8,17 +8,64 @@
       />
       <div class="social-icon my-3">
         <a
-          style="padding: 15px"
+          style="padding: 0.8rem"
           class="
             w-12
             h-12
             rounded-full
             icon-cover
-            bg-gray-600
+            ml-2.5
+            transition
+            duration-300
+            bg-pink-700
+            cursor-pointer
+            hover:bg-pink-800 hover:text-white
+          "
+          href="https://opensea.io/collection/insidious-jokers-collection"
+          target="_blank"
+        >
+          <img src="../assets/Logomark-Transparent.svg" alt="" />
+        </a>
+
+        <a
+          style="padding: 0.8rem"
+          class="
+            w-12
+            h-12
+            rounded-full
+            icon-cover
+            ml-2.5
+            transition
+            duration-300
+            bg-pink-700
+            cursor-pointer
+            hover:bg-pink-800 hover:text-white
+          "
+          href="https://discord.gg/fYbdMA5fxX"
+          target="_blank"
+        >
+          <i
+            class="
+              fab
+              fa-discord
+              text-gray text-white text-xl
+              font-bold
+              cursor-pointer
+            "
+          ></i>
+        </a>
+        <a
+          style="padding: 15px; margin-left: 10px;"
+          class="
+            w-12
+            h-12
+            rounded-full
+            icon-cover
+            bg-pink-700
             hover:text-white
             transition
             duration-300
-            hover:bg-pink-700
+            hover:bg-pink-800
             cursor-pointer
           "
           href="https://www.instagram.com/insidiousjokers/"
@@ -28,9 +75,7 @@
             class="
               fab
               fa-instagram
-              text-gray
-              hover:text-white
-              text-xl
+              text-gray text-white text-xl
               font-bold
               cursor-pointer
             "
@@ -44,10 +89,10 @@
             rounded-full
             icon-cover
             ml-2.5
-            bg-gray-600
+            bg-pink-700
             transition
             duration-300
-            hover:bg-pink-700
+            hover:bg-pink-800
             cursor-pointer
             hover:text-white
           "
@@ -58,65 +103,11 @@
             class="
               fab
               fa-twitter
-              text-gray
-              hover:text-white
-              text-xl
+              text-gray text-white text-xl
               font-bold
               cursor-pointer
             "
           ></i>
-        </a>
-
-        <a
-          style="padding: 0.8rem"
-          class="
-            w-12
-            h-12
-            rounded-full
-            icon-cover
-            ml-2.5
-            transition
-            duration-300
-            bg-gray-600
-            hover:bg-violet-800
-            cursor-pointer
-            hover:bg-pink-700 hover:text-white
-          "
-          href="https://discord.gg/fYbdMA5fxX"
-          target="_blank"
-        >
-          <i
-            class="
-              fab
-              fa-discord
-              text-gray
-              hover:text-white
-              text-xl
-              font-bold
-              cursor-pointer
-            "
-          ></i>
-        </a>
-
-        <a
-          style="padding: 0.8rem"
-          class="
-            w-12
-            h-12
-            rounded-full
-            icon-cover
-            ml-2.5
-            transition
-            duration-300
-            bg-gray-600
-            hover:bg-violet-800
-            cursor-pointer
-            hover:bg-pink-700 hover:text-white
-          "
-          href="https://opensea.io/collection/insidious-jokers-collection"
-          target="_blank"
-        >
-          <img src="../assets/Logomark-Transparent.svg" alt="" />
         </a>
       </div>
       <!-- <p class="term text-gray-50">Term of Service</p> -->
@@ -138,8 +129,9 @@ footer {
   margin-top: 10rem;
   display: flex;
   justify-content: center;
-  background-color: #33343b;
+  background-color: #111827;
   height: 28rem;
+  box-shadow: 1px 1px 10px 1px #f3f4f644;
 }
 
 p {

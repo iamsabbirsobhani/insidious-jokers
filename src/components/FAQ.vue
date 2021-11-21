@@ -10,10 +10,10 @@
           <div v-if="faqItem.id !== id">
             <i class="fas fa-chevron-right"></i>
           </div>
-          <div v-if="!faqArrow && faqItem.id === id">
+          <div v-if="!faqToggle && faqItem.id === id">
             <i class="fas fa-chevron-right"></i>
           </div>
-          <div v-if="faqArrow && faqItem.id === id">
+          <div v-if="faqToggle && faqItem.id === id">
             <i class="fas fa-chevron-down"></i>
           </div>
         </div>
@@ -31,7 +31,6 @@
 import { ref } from "@vue/reactivity";
 
 const faqToggle = ref(false);
-const faqArrow = ref(false);
 
 const faqItems = ref([
   {
@@ -66,10 +65,8 @@ const id = ref(null);
 const toggle = (fid) => {
   if (fid === id.value) {
     faqToggle.value = !faqToggle.value;
-    faqArrow.value = !faqArrow.value;
   } else {
     faqToggle.value = true;
-    faqArrow.value = true;
   }
   id.value = fid;
 };
