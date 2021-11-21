@@ -1,6 +1,5 @@
 <template>
-  <div class="row" id="FAQ" style="margin-bottom: 10rem">
-    <h1 class="text-center text-white text-4xl font-bold my-10">FAQ</h1>
+    <h1 id="FAQ" class="text-center text-white text-4xl font-bold my-10">FAQ</h1>
     <div class="faq">
       <div v-for="faqItem in faqItems" :key="faqItem.id" class="faq-body">
         <div
@@ -26,7 +25,6 @@
         </div>
       </div>
     </div>
-  </div>
 </template>
 
 <script setup>
@@ -109,7 +107,6 @@ const toggle = (fid) => {
   letter-spacing: 0.5px;
   padding: 15px;
 }
-
 
 @media (max-width: 600px) {
   .faq {
