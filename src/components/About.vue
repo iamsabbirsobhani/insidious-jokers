@@ -24,7 +24,7 @@
         </p>
       </div>
       <div
-        class="right bg-no-repeat bg-top md:bg-bottom-center bg-auto bg-contain"
+        class="right bg-no-repeat bg-top md:bg-bottom-center bg-auto bg-contain rounded-md"
         :style="dyImg"
       >
       </div>
@@ -35,26 +35,11 @@
 <script setup>
 import { onMounted, ref } from "@vue/runtime-core";
 const imgsrc = [
-  "Matvey",
-  "Shahzain",
-  "DanielAmegan",
-  "Daniil",
-  1,
-  2,
-  3,
-  4,
-  5,
-  6,
-  8,
-  9,
-  10,
-  11,
-  12,
-  13,
-  14,
-  15,
-  16,
-  17,
+  "DanielAmegan.png",
+  "Shahzain.png",
+  "Matvey.png",
+  "Daniil.png",
+  "NikolayZhulebin.jpeg",
 ];
 let imglength = imgsrc.length - 1;
 let newimgsrc = ref(null);
@@ -65,18 +50,17 @@ onMounted(() => {
       imglength = imgsrc.length - 1;
     } else {
       newimgsrc.value = new URL(
-        `../assets/forwebsite/${imgsrc[imglength]}.png`,
+        `../assets/TeamPictures/${imgsrc[imglength]}`,
         import.meta.url
       ).href;
       console.log(imglength);
       dyImg.value = {
         backgroundImage: `url("${newimgsrc.value}")`,
-        borderRadius: `10px`,
         transition: `all 500ms ease-in`,
       };
       imglength--;
     }
-  }, 900);
+  }, 950);
 });
 </script>
 
@@ -123,8 +107,8 @@ onMounted(() => {
 
   .right {
     position: relative;
-    width: 290px;
-    height: 350px;
+    width: 310px;
+    height: 310px;
   }
   .left {
     span {

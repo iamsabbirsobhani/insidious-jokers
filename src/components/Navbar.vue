@@ -70,6 +70,20 @@ onMounted(() => {
         <a
           class="
             icon-cover
+            ml-2.5
+            transition
+            duration-300
+            hover:bg-pink-800
+            cursor-pointer
+          "
+          href="https://opensea.io/collection/insidious-jokers-collection"
+          target="_blank"
+        >
+          <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
+        </a>
+        <a
+          class="
+            icon-cover
             ml-8
             p-3
             transition
@@ -100,20 +114,6 @@ onMounted(() => {
           <i
             class="fab fa-twitter text-white text-xl font-bold cursor-pointer"
           ></i>
-        </a>
-        <a
-          class="
-            icon-cover
-            ml-2.5
-            transition
-            duration-300
-            hover:bg-pink-800
-            cursor-pointer
-          "
-          href="https://opensea.io/collection/insidious-jokers-collection"
-          target="_blank"
-        >
-          <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
         </a>
       </section>
       <section class="last">
@@ -151,10 +151,24 @@ onMounted(() => {
         class="w-16 m-2.5"
         alt="Insidious Jokers"
       />
+       <a
+        style="margin-left: 1px"
+        class="
+          icon-cover
+          transition
+          duration-300
+          hover:bg-pink-800
+          cursor-pointer
+        "
+        href="https://opensea.io/collection/insidious-jokers-collection"
+        target="_blank"
+      >
+        <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
+      </a>
       <a
         class="
           icon-cover
-          ml-8
+
           p-3
           transition
           duration-300
@@ -169,7 +183,7 @@ onMounted(() => {
         ></i>
       </a>
       <a
-      style="margin-left:2px;"
+        style="margin-left: 2px"
         class="
           icon-cover
           p-3
@@ -185,20 +199,7 @@ onMounted(() => {
           class="fab fa-twitter text-white text-xl font-bold cursor-pointer"
         ></i>
       </a>
-      <a
-      style="margin-left: 1px;"
-        class="
-          icon-cover
-          transition
-          duration-300
-          hover:bg-pink-800
-          cursor-pointer
-        "
-                  href="https://opensea.io/collection/insidious-jokers-collection"
-          target="_blank"
-      >
-        <img src="../assets/Logomark-Transparent.svg" class="" alt="" />
-      </a>
+
 
       <button
         @click="openNav"
@@ -239,28 +240,28 @@ onMounted(() => {
       <!-- <li><a href="#contact">CONTACT</a></li> -->
     </ul>
     <form>
-    <button
-      class="
-        bg-white
-        transition
-        duration-300
-        mr-3
-        mb-3
-        text-sm
-        font-bold
-        rounded-lg
-        hover:bg-pink-700 hover:text-white
-        w-52
-        h-10
-        mr-11
-        join
-        ml-7
-        mt-5
-      "
-      formaction="https://discord.gg/fYbdMA5fxX"
-    >
-      JOIN OUR DISCORD
-    </button>
+      <button
+        class="
+          bg-white
+          transition
+          duration-300
+          mr-3
+          mb-3
+          text-sm
+          font-bold
+          rounded-lg
+          hover:bg-pink-700 hover:text-white
+          w-52
+          h-10
+          mr-11
+          join
+          ml-7
+          mt-5
+        "
+        formaction="https://discord.gg/fYbdMA5fxX"
+      >
+        JOIN OUR DISCORD
+      </button>
     </form>
   </nav>
 </template>
@@ -271,7 +272,7 @@ a {
   color: white;
   font-weight: bold;
   font-family: $primary;
-  margin-left: 40px;
+  // margin-left: 40px;
   transition: all 0.24s;
 }
 a:hover {

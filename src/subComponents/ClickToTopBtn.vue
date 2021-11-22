@@ -35,13 +35,13 @@ let sss = () => {
   if (window.scrollY > 900) {
     totopStyle.value = {
       display: "block",
-      zIndex: 30,
+      zIndex: 500,
     };
     isFade.value = true;
   } else {
     totopStyle.value = {
       display: "none",
-      zIndex: 30,
+      zIndex: 500,
     };
     isFade.value = false;
   }
@@ -57,7 +57,7 @@ onMounted(() => {
   margin-right: 1rem;
   margin-bottom: 1rem;
   border-radius: 5px;
-  z-index: 200;
+  z-index: 500;
 }
 
 .fade-enter-active,
