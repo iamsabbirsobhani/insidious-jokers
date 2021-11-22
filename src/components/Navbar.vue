@@ -58,11 +58,11 @@ onMounted(() => {
       </section>
       <section class="second">
         <ul class="flex flex-row">
-          <li><a class="nm-1" href="#ABout">ABOUT</a></li>
-          <li><a class="nm-2" href="#FEatures">FEATURES</a></li>
-          <li><a class="nm-3" href="#ICRoadmap">ROADMAP</a></li>
-          <li><a class="nm-4" href="#Team">TEAM</a></li>
-          <li><a class="nm-5" href="#FAQ">FAQ</a></li>
+          <li><a class="nm-1 nm-a" href="#ABout">ABOUT</a></li>
+          <li><a class="nm-2 nm-a" href="#FEatures">FEATURES</a></li>
+          <li><a class="nm-3 nm-a" href="#ICRoadmap">ROADMAP</a></li>
+          <li><a class="nm-4 nm-a" href="#Team">TEAM</a></li>
+          <li><a class="nm-5 nm-a" href="#FAQ">FAQ</a></li>
           <!-- <li><a class="nm-6" href="#contact">CONTACT</a></li> -->
         </ul>
       </section>
@@ -84,7 +84,7 @@ onMounted(() => {
         <a
           class="
             icon-cover
-            ml-8
+            ml-2.5
             p-3
             transition
             duration-300
@@ -232,11 +232,11 @@ onMounted(() => {
       <i class="fas fa-times hover:text-white text-black text-3xl"></i>
     </button>
     <ul class="flex flex-col">
-      <li><a href="#ABout">ABOUT</a></li>
-      <li><a href="#FEatures">FEATURES</a></li>
-      <li><a href="#ICRoadmap">ROADMAP</a></li>
-      <li><a href="#Team">TEAM</a></li>
-      <li><a href="#FAQ">FAQ</a></li>
+      <li><a href="#ABout" class="nm-a">ABOUT</a></li>
+      <li><a href="#FEatures" class="nm-a">FEATURES</a></li>
+      <li><a href="#ICRoadmap" class="nm-a">ROADMAP</a></li>
+      <li><a href="#Team" class="nm-a">TEAM</a></li>
+      <li><a href="#FAQ" class="nm-a">FAQ</a></li>
       <!-- <li><a href="#contact">CONTACT</a></li> -->
     </ul>
     <form>
@@ -272,9 +272,13 @@ a {
   color: white;
   font-weight: bold;
   font-family: $primary;
-  // margin-left: 40px;
   transition: all 0.24s;
 }
+
+.nm-a {
+  margin-left: 40px;
+}
+
 a:hover {
   color: $secondary-clr;
 }

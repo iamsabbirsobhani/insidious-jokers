@@ -53,7 +53,6 @@ onMounted(() => {
         `../assets/TeamPictures/${imgsrc[imglength]}`,
         import.meta.url
       ).href;
-      console.log(imglength);
       dyImg.value = {
         backgroundImage: `url("${newimgsrc.value}")`,
         transition: `all 500ms ease-in`,
@@ -111,6 +110,9 @@ onMounted(() => {
     height: 310px;
   }
   .left {
+    width: 360px;
+    padding: 20px !important;
+    margin-bottom: 50px;
     span {
       text-align: center !important;
     }

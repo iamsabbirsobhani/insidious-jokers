@@ -1,8 +1,8 @@
 <template>
   <div class="features-wrap" id="FEatures">
     <section class="features">
-      <div class="left p-5">
-        <img src="../assets/fourphotos.png" alt="" />
+      <div class="left p-1">
+        <img src="../assets/fourphotos.png" class="rounded-md" alt="" />
       </div>
       <div class="right p-5 text-4xl font-bold text-gray-50">
         <h1>
@@ -50,7 +50,6 @@ export default {};
 .left {
   img {
     width: 516px;
-    border-radius: 10px;
     transition: all 0.24s;
     box-shadow: 1px 2px 10px 5px rgba(161, 161, 161, 0.158);
   }
@@ -64,9 +63,13 @@ export default {};
 }
 
 @media (max-width: 900px) {
-  // .right {
-  //   max-width: 620px;
-  // }
+  .left{
+    margin-top: 100px;
+    img {
+      width: 310px !important;
+      margin-left: 5px;
+    }
+  }
   .features-wrap {
     margin-top: 20px;
   }
@@ -77,6 +80,8 @@ export default {};
     max-width: 400px;
   }
   .right {
+    width: 360px;
+    padding: 20px !important;
     h1 {
       font-size: 30px;
     }

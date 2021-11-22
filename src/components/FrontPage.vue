@@ -49,7 +49,6 @@ onMounted(() => {
         backgroundImage: `url("${bannerSrc.value}")`,
         transition: `all 10s ease-in-out`,
       };
-      console.log(bannerLength);
       bannerLength--;
     }
   }, 30000);
