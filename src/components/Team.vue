@@ -18,34 +18,6 @@
           <h1>Daniil Mikhailov</h1>
           <p>Founder & CEO</p>
 
-          <div class="contact-team flex">
-            <a
-              style="margin-left: 0"
-              class="
-                icon-cover
-                ml-2.5
-                w-12
-                h-12
-                p-3
-                transition
-                duration-300
-                hover:bg-pink-800
-                cursor-pointer
-              "
-              href="https://www.instagram.com/daniil_mikhailoff/"
-              target="_blank"
-            >
-              <i
-                class="
-                  fab
-                  fa-instagram
-                  text-white text-xl
-                  font-bold
-                  cursor-pointer
-                "
-              ></i>
-            </a>
-          </div>
         </div>
         <div class="dp">
           <img
@@ -55,35 +27,6 @@
           />
           <h1>Matvey Kuzmenko</h1>
           <p>Co-founder</p>
-
-          <div class="contact-team flex">
-            <a
-              style="margin-left: 0"
-              class="
-                icon-cover
-                ml-2.5
-                w-12
-                h-12
-                p-3
-                transition
-                duration-300
-                hover:bg-pink-800
-                cursor-pointer
-              "
-              href="https://www.instagram.com/_motyan_/"
-              target="_blank"
-            >
-              <i
-                class="
-                  fab
-                  fa-instagram
-                  text-white text-xl
-                  font-bold
-                  cursor-pointer
-                "
-              ></i>
-            </a>
-          </div>
         </div>
         <div class="dp">
           <img
@@ -93,34 +36,7 @@
           />
           <h1>Shahzain Gill</h1>
           <p>MD & Content Creator</p>
-          <div class="contact-team flex">
-            <a
-              style="margin-left: 0"
-              class="
-                icon-cover
-                ml-2.5
-                w-12
-                h-12
-                p-3
-                transition
-                duration-300
-                hover:bg-pink-800
-                cursor-pointer
-              "
-              href="https://www.instagram.com/gillshahzain/"
-              target="_blank"
-            >
-              <i
-                class="
-                  fab
-                  fa-instagram
-                  text-white text-xl
-                  font-bold
-                  cursor-pointer
-                "
-              ></i>
-            </a>
-          </div>
+
         </div>
         <div class="dp">
           <img
@@ -131,34 +47,19 @@
           <h1>Daniel Amegan</h1>
           <p>Head Designer</p>
 
-          <div class="contact-team flex">
-            <a
-              style="margin-left: 0"
-              class="
-                icon-cover
-                ml-2.5
-                w-12
-                h-12
-                p-3
-                transition
-                duration-300
-                hover:bg-pink-800
-                cursor-pointer
-              "
-              href="https://www.instagram.com/artyzdaniel/"
-              target="_blank"
-            >
-              <i
-                class="
-                  fab
-                  fa-instagram
-                  text-white text-xl
-                  font-bold
-                  cursor-pointer
-                "
-              ></i>
-            </a>
-          </div>
+
+        </div>
+
+        <div class="dp">
+          <img
+            class="team-img w-72"
+            src="../assets/TeamPictures/NikolayZhulebin.jpeg"
+            alt="Nikolay Zhulebin"
+          />
+          <h1>Nikolay Zhulebin</h1>
+          <p>Designer </p>
+
+
         </div>
       </div>
     </section>
@@ -197,10 +98,14 @@
 
 .team-dp {
   display: flex;
+
+  flex-wrap: wrap;
+
+  justify-content: center;
   h1 {
-    margin-top: 0.1rem;
+    margin-top: 0.6rem;
     color: white;
-    font-size: 1.8rem;
+    font-size: 1.2rem;
   }
   h1::after {
     content: "";
@@ -213,12 +118,16 @@
   }
 
   p {
-    color: white;
-    font-size: 1.1rem;
+    // color: #08dfc2;
+    color: #6EE7B7;
+    font-size: .9rem;
   }
 
   .dp {
+    max-width: max-content;
     margin-left: 1.2rem;
+    flex: 0 0 15.333333%;
+
     img {
       border-radius: 10px;
       transition: all 0.24s;
