@@ -36,7 +36,6 @@ onMounted(() => {
       display: "block",
     };
   }
-  console.log(windWidth.value);
 });
 </script>
 
@@ -60,6 +59,7 @@ onMounted(() => {
         <ul class="flex flex-row">
           <li><a class="nm-1 nm-a" href="#ABout">ABOUT</a></li>
           <li><a class="nm-2 nm-a" href="#FEatures">FEATURES</a></li>
+          <li><a class="nm-6 nm-a" href="#Rarity">RARITY</a></li>
           <li><a class="nm-3 nm-a" href="#ICRoadmap">ROADMAP</a></li>
           <li><a class="nm-4 nm-a" href="#Team">TEAM</a></li>
           <li><a class="nm-5 nm-a" href="#FAQ">FAQ</a></li>
@@ -234,6 +234,7 @@ onMounted(() => {
     <ul class="flex flex-col">
       <li><a href="#ABout" class="nm-a">ABOUT</a></li>
       <li><a href="#FEatures" class="nm-a">FEATURES</a></li>
+      <li><a class="nm-a" href="#Rarity">RARITY</a></li>
       <li><a href="#ICRoadmap" class="nm-a">ROADMAP</a></li>
       <li><a href="#Team" class="nm-a">TEAM</a></li>
       <li><a href="#FAQ" class="nm-a">FAQ</a></li>
@@ -447,7 +448,7 @@ a:hover {
   content: "";
   display: block;
   position: absolute;
-  width: 45px;
+  width: 44px;
   margin-left: 40px;
   height: 4px;
   background-color: #db2777;
@@ -487,7 +488,7 @@ a:hover {
   content: "";
   display: block;
   position: absolute;
-  width: 70px;
+  width: 52px;
   margin-left: 40px;
   height: 4px;
   background-color: #db2777;

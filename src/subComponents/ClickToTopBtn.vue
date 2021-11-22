@@ -26,7 +26,7 @@ import { onMounted } from "@vue/runtime-core";
 
 const totopStyle = ref({
   display: "none",
-  zIndex: 30,
+  zIndex: 600,
 });
 const isFade = ref(false);
 const scrl = ref(null);
@@ -35,13 +35,13 @@ let sss = () => {
   if (window.scrollY > 900) {
     totopStyle.value = {
       display: "block",
-      zIndex: 500,
+      zIndex: 600,
     };
     isFade.value = true;
   } else {
     totopStyle.value = {
       display: "none",
-      zIndex: 500,
+      zIndex: 600,
     };
     isFade.value = false;
   }
@@ -57,7 +57,7 @@ onMounted(() => {
   margin-right: 1rem;
   margin-bottom: 1rem;
   border-radius: 5px;
-  z-index: 500;
+  z-index: 600;
 }
 
 .fade-enter-active,

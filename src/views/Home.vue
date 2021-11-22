@@ -7,6 +7,7 @@ import Features from '../components/Features.vue';
 import Team from '../components/Team.vue';
 import Roadmap from '../components/Roadmap.vue';
 import FAQ from '../components/FAQ.vue';
+import RarityGuideVue from '../components/RarityGuide.vue';
 // import ContactUs from '../components/ContactUs.vue';
 // import NavNew from '../components/NavNew.vue';
 </script>
@@ -18,6 +19,7 @@ import FAQ from '../components/FAQ.vue';
     <FrontPage/>
     <About/>
     <Features/>
+    <RarityGuideVue/>
     <Roadmap/>
     <Team/>
     <FAQ/>

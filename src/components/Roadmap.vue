@@ -290,7 +290,6 @@ onMounted(() => {
       display: "none",
     };
   }
-  console.log(windWidth.value);
 });
 </script>
 
