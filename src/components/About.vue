@@ -19,12 +19,12 @@
           <span class="text-pink-500"
             >this is the first collection of jokers on the market.</span
           >
-          Join the Insidious Jokers and make history with us. Get jokered
-          with us.
+          Join the Insidious Jokers and make history with us. Get jokered with
+          us.
         </p>
       </div>
-      <div class="right p-5">
-        <img
+      <div class="right">
+        <!-- <img
           class="right-img"
           id="f1"
           src="../assets/forwebsite/1.png"
@@ -143,14 +143,51 @@
           id="f16"
           src="../assets/forwebsite/Shahzain.png"
           alt=""
-        />
+        /> -->
+  <img class="right-img" :src="newimgsrc" alt="" />
       </div>
     </section>
   </div>
 </template>
 
-<script>
-export default {};
+<script setup>
+import { onMounted, ref } from "@vue/runtime-core";
+const imgsrc = [
+  "Matvey",
+  "Shahzain",
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+];
+let imglength = imgsrc.length - 1;
+let newimgsrc = ref(null);
+onMounted(() => {
+  setInterval(() => {
+    if (imglength < 0) {
+      imglength = imgsrc.length - 1;
+    } else {
+      newimgsrc.value = new URL(
+        `../assets/forwebsite/${imgsrc[imglength]}.png`,
+        import.meta.url
+      ).href;
+      console.log(imglength);
+      imglength--;
+    }
+  }, 800);
+});
 </script>
 
 <style lang="scss" scoped>
@@ -171,7 +208,8 @@ export default {};
   position: relative;
   width: 520px;
   height: 520px;
-  margin-right: 100px;
+  // margin-right: 100px;
+
 }
 
 .right img {
@@ -180,12 +218,17 @@ export default {};
   position: absolute;
   border-radius: 10px;
   top: 0;
-  -webkit-animation-name: fade;
+  // -webkit-animation-name: fade;
   -webkit-animation-iteration-count: infinite;
-  -webkit-animation-duration: 6s;
-  animation-name: fade;
+  // -webkit-animation-duration: 6s;
+  // animation-name: fade;
   animation-iteration-count: infinite;
-  animation-duration: 6s;
+  // animation-duration: 6s;
+}
+
+
+.right-img {
+  width: 400px;
 }
 
 @-webkit-keyframes fade {
@@ -330,7 +373,7 @@ export default {};
     position: relative;
     width: 290px;
     height: 350px;
-    margin-right: 100px;
+    // margin-right: 100px;
   }
   .left {
     span {

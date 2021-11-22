@@ -32,7 +32,6 @@ const isFade = ref(false);
 const scrl = ref(null);
 let sss = () => {
   scrl.value = window.scrollY;
-  console.log(scrl.value);
   if (window.scrollY > 900) {
     totopStyle.value = {
       display: "block",
