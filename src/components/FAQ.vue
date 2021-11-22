@@ -107,7 +107,7 @@ const toggle = (fid) => {
 
 @media (max-width: 600px) {
   .faq {
-    max-width: 330px;
+    max-width: 350px;
     margin: auto;
   }
 }
