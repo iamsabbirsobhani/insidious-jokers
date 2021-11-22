@@ -40,7 +40,7 @@ const faqItems = ref([
   },
   {
     title: "Who is behind the Insidious Jokers?",
-    ans: "We are a multinational team of 4 representing the following countries: Russia, Canada, UAE, and Pakistan. Each member of our team is truly passionate and dedicated to the Insidious Jokers which will ensure success.",
+    ans: "We are a multinational team of 5 representing the following countries: Russia, Canada, UAE, and Pakistan. Each member of our team is truly passionate and dedicated to the Insidious Jokers which will ensure success.",
     id: 2,
   },
   {
