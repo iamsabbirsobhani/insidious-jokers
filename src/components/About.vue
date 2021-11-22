@@ -23,128 +23,10 @@
           us.
         </p>
       </div>
-      <div class="right">
-        <!-- <img
-          class="right-img"
-          id="f1"
-          src="../assets/forwebsite/1.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f2"
-          src="../assets/forwebsite/2.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f3"
-          src="../assets/forwebsite/3.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f4"
-          src="../assets/forwebsite/4.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f5"
-          src="../assets/forwebsite/5.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f6"
-          src="../assets/forwebsite/6.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f7"
-          src="../assets/forwebsite/9.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f8"
-          src="../assets/forwebsite/8.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f9"
-          src="../assets/forwebsite/10.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f10"
-          src="../assets/forwebsite/11.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f11"
-          src="../assets/forwebsite/12.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f12"
-          src="../assets/forwebsite/13.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f13"
-          src="../assets/forwebsite/14.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f14"
-          src="../assets/forwebsite/15.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f15"
-          src="../assets/forwebsite/16.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f16"
-          src="../assets/forwebsite/17.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f16"
-          src="../assets/forwebsite/DanielAmegan.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f16"
-          src="../assets/forwebsite/Daniil.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f16"
-          src="../assets/forwebsite/Matvey.png"
-          alt=""
-        />
-        <img
-          class="right-img"
-          id="f16"
-          src="../assets/forwebsite/Shahzain.png"
-          alt=""
-        /> -->
-  <img class="right-img" :src="newimgsrc" alt="" />
+      <div
+        class="right bg-no-repeat bg-top md:bg-bottom-center bg-auto bg-contain"
+        :style="dyImg"
+      >
       </div>
     </section>
   </div>
@@ -155,6 +37,8 @@ import { onMounted, ref } from "@vue/runtime-core";
 const imgsrc = [
   "Matvey",
   "Shahzain",
+  "DanielAmegan",
+  "Daniil",
   1,
   2,
   3,
@@ -174,6 +58,7 @@ const imgsrc = [
 ];
 let imglength = imgsrc.length - 1;
 let newimgsrc = ref(null);
+let dyImg = ref(null);
 onMounted(() => {
   setInterval(() => {
     if (imglength < 0) {
@@ -184,9 +69,14 @@ onMounted(() => {
         import.meta.url
       ).href;
       console.log(imglength);
+      dyImg.value = {
+        backgroundImage: `url("${newimgsrc.value}")`,
+        borderRadius: `10px`,
+        transition: `all 500ms ease-in`,
+      };
       imglength--;
     }
-  }, 800);
+  }, 900);
 });
 </script>
 
@@ -208,158 +98,20 @@ onMounted(() => {
   position: relative;
   width: 520px;
   height: 520px;
-  // margin-right: 100px;
-
+  background-position: top center;
 }
 
 .right img {
   width: 516px;
-  // opacity: 0;
   position: absolute;
-  border-radius: 10px;
+  // border-radius: 10px;
   top: 0;
-  // -webkit-animation-name: fade;
-  -webkit-animation-iteration-count: infinite;
-  // -webkit-animation-duration: 6s;
-  // animation-name: fade;
-  animation-iteration-count: infinite;
-  // animation-duration: 6s;
 }
-
 
 .right-img {
   width: 400px;
 }
 
-@-webkit-keyframes fade {
-  0% {
-    opacity: 0;
-  }
-  20% {
-    opacity: 1;
-  }
-  33% {
-    opacity: 1;
-  }
-  53% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-
-#f1 {
-  background-color: lightblue;
-}
-#f2 {
-  -webkit-animation-delay: -16s;
-  background-color: yellow;
-}
-#f3 {
-  -webkit-animation-delay: -15s;
-  background-color: lightgreen;
-}
-#f4 {
-  -webkit-animation-delay: -14s;
-  background-color: lightgreen;
-}
-#f5 {
-  -webkit-animation-delay: -13s;
-  background-color: lightgreen;
-}
-#f6 {
-  -webkit-animation-delay: -12s;
-  background-color: lightgreen;
-}
-#f7 {
-  -webkit-animation-delay: -11s;
-  background-color: lightgreen;
-}
-#f8 {
-  -webkit-animation-delay: -10s;
-  background-color: lightgreen;
-}
-#f9 {
-  -webkit-animation-delay: -9s;
-  background-color: lightgreen;
-}
-#f10 {
-  -webkit-animation-delay: -8s;
-  background-color: lightgreen;
-}
-#f11 {
-  -webkit-animation-delay: -7s;
-  background-color: lightgreen;
-}
-#f12 {
-  -webkit-animation-delay: -6s;
-  background-color: lightgreen;
-}
-#f13 {
-  -webkit-animation-delay: -5s;
-  background-color: lightgreen;
-}
-#f14 {
-  -webkit-animation-delay: -4s;
-  background-color: lightgreen;
-}
-#f15 {
-  -webkit-animation-delay: -3s;
-  background-color: lightgreen;
-}
-#f16 {
-  -webkit-animation-delay: -2s;
-  background-color: lightgreen;
-}
-
-@keyframes fade {
-  0% {
-    opacity: 0;
-  }
-  20% {
-    opacity: 1;
-  }
-  33% {
-    opacity: 1;
-  }
-  53% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-// @keyframes cf4FadeInOut {
-//   0% {
-//     opacity: 1;
-//   }
-//   17% {
-//     opacity: 1;
-//   }
-//   25% {
-//     opacity: 0;
-//   }
-//   92% {
-//     opacity: 0;
-//   }
-//   100% {
-//     opacity: 1;
-//   }
-// }
-
-// .right-img img:nth-of-type(1) {
-//   animation-delay: 6s;
-// }
-// .right-img img:nth-of-type(2) {
-//   animation-delay: 4s;
-// }
-// .right-img img:nth-of-type(3) {
-//   animation-delay: 2s;
-// }
-// .right-img img:nth-of-type(4) {
-//   animation-delay: 0;
-// }
 @media (max-width: 900px) {
   .about {
     flex-direction: column;
@@ -373,7 +125,6 @@ onMounted(() => {
     position: relative;
     width: 290px;
     height: 350px;
-    // margin-right: 100px;
   }
   .left {
     span {
