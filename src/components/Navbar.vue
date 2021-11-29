@@ -108,7 +108,7 @@ onMounted(() => {
             hover:bg-pink-800
             cursor-pointer
           "
-          href="https://twitter.com/InsidiousJokers"
+          href="https://twitter.com/IJ_NFT"
           target="_blank"
         >
           <i
