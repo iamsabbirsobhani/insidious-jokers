@@ -14,10 +14,10 @@
         "
       >
         The rarity of Insidious Jokers is determined by the properties they
-        have. There are a total of 10 properties that include
+        have. There are a total of 11 properties that include
         <span class="text-pink-500">
           backgrounds, skin tones, outfits, smiles, noses, eyes, face tattoos,
-          hats, earrings, and chains.</span
+          hats, glasses, earrings, and chains.</span
         >
         The more attributes your Joker has, the rarer your Joker is. Moreover,
         the rare ones have more exclusive attributes. There are also 30 super
