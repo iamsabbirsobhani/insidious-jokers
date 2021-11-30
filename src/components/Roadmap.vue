@@ -56,7 +56,7 @@
                           >2nd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 50 NFTS</span
+                          >🎁 Giveaway of 50 NFTS 🎁</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
