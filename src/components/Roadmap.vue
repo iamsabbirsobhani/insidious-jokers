@@ -56,7 +56,7 @@
                           >2nd milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 50 NFTS with total worth of $10,000</span
+                          >Giveaway of 50 NFTS</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
@@ -104,14 +104,13 @@
                           >4th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 5 super rare NFTS</span
+                          >Presales
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          For more details be active on our discord server and
-                          follow our social media accounts so no giveaways are
-                          missed out on. 💎
+                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
+                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
                         </li>
                       </ul>
                     </div>
@@ -128,98 +127,6 @@
                         <span class="roadmap-phase text-danger">&nbsp;</span>
                         <span class="roadmap-time roadmap-time-s1"
                           >6th milestone</span
-                        >
-                        <span class="roadmap-title roadmap-title-s1"
-                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
-                          WILL BE ANNOUNCED SOON) 🎉
-                        </span>
-                      </div>
-                      <ul class="roadmap-step-list-s1 text-white">
-                        <li>
-                          A portion of ETH from the sale will be donated to
-                          charity. 🤝
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg">
-                  <div class="roadmap roadmap-s1 text-lg-center">
-                    <div class="roadmap-step roadmap-step-s1">
-                      <div class="roadmap-head roadmap-head-s1">
-                        <span class="roadmap-time roadmap-time-s1"
-                          >5th milestone</span
-                        >
-                        <span class="roadmap-title roadmap-title-s1"
-                          >Presales</span
-                        >
-                      </div>
-                      <ul class="roadmap-step-list-s1 text-white">
-                        <li>
-                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
-                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div :style="mobileMap" class="roadmap-wrap roadmap-wrap-s1 mb-0">
-              <div class="row flex-row-reverse no-gutters">
-                <div class="col-lg">
-                  <div class="roadmap roadmap-s1 text-lg-center">
-                    <div class="roadmap-step roadmap-step-s1">
-                      <div class="roadmap-head roadmap-head-s1">
-                        <span class="roadmap-time roadmap-time-s1"
-                          >5th milestone</span
-                        >
-                        <span class="roadmap-title roadmap-title-s1"
-                          >Presales</span
-                        >
-                      </div>
-                      <ul class="roadmap-step-list-s1 text-white">
-                        <li>
-                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
-                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg">
-                  <div class="roadmap roadmap-s1 text-lg-center">
-                    <div class="roadmap-step roadmap-step-s1">
-                      <div class="roadmap-head roadmap-head-s1">
-                        <span class="roadmap-phase text-danger">&nbsp;</span>
-                        <span class="roadmap-time roadmap-time-s1"
-                          >6th milestone</span
-                        >
-                        <span class="roadmap-title roadmap-title-s1"
-                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
-                          WILL BE ANNOUNCED SOON) 🎉
-                        </span>
-                      </div>
-                      <ul class="roadmap-step-list-s1 text-white">
-                        <li>
-                          A portion of ETH from the sale will be donated to
-                          charity. 🤝
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="roadmap-wrap roadmap-wrap-s1 mb-0">
-              <div class="row flex-row-reverse no-gutters">
-                <div class="col-lg">
-                  <div class="roadmap roadmap-s1 text-lg-center">
-                    <div class="roadmap-step roadmap-step-s1">
-                      <div class="roadmap-head roadmap-head-s1">
-                        <span class="roadmap-phase text-danger">&nbsp;</span>
-                        <span class="roadmap-time roadmap-time-s1"
-                          >7th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
                           >EXCLUSIVE COMPETITIONS FOR INSIDIOUS HOLDERS
@@ -240,12 +147,85 @@
                     <div class="roadmap-step roadmap-step-s1">
                       <div class="roadmap-head roadmap-head-s1">
                         <span class="roadmap-time roadmap-time-s1"
-                          >8th milestone</span
+                          >5th milestone</span
+                        >
+                        <span class="roadmap-title roadmap-title-s1"
+                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
+                          WILL BE ANNOUNCED SOON) 🎉</span
+                        >
+                      </div>
+                      <ul class="roadmap-step-list-s1 text-white">
+                        <li>
+                          A portion of ETH from the sale will be donated to
+                          charity. 🤝
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div :style="mobileMap" class="roadmap-wrap roadmap-wrap-s1 mb-0">
+              <div class="row flex-row-reverse no-gutters">
+                <div class="col-lg">
+                  <div class="roadmap roadmap-s1 text-lg-center">
+                    <div class="roadmap-step roadmap-step-s1">
+                      <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-time roadmap-time-s1"
+                          >5th milestone</span
+                        >
+                        <span class="roadmap-title roadmap-title-s1"
+                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
+                          WILL BE ANNOUNCED SOON) 🎉</span
+                        >
+                      </div>
+                      <ul class="roadmap-step-list-s1 text-white">
+                        <li>
+                          A portion of ETH from the sale will be donated to
+                          charity. 🤝
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg">
+                  <div class="roadmap roadmap-s1 text-lg-center">
+                    <div class="roadmap-step roadmap-step-s1">
+                      <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-phase text-danger">&nbsp;</span>
+                        <span class="roadmap-time roadmap-time-s1"
+                          >6th milestone</span
+                        >
+                        <span class="roadmap-title roadmap-title-s1"
+                          >EXCLUSIVE COMPETITIONS FOR INSIDIOUS HOLDERS
+                        </span>
+                      </div>
+                      <ul class="roadmap-step-list-s1 text-white">
+                        <li>
+                          Exclusive competitions will be hosted for Insidious
+                          Joker holders only, involving Ethereum, NFTs & Cash
+                          Giveaways. 💰
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="roadmap-wrap roadmap-wrap-s1 mb-0">
+              <div class="row flex-row-reverse no-gutters">
+                <div class="col-lg">
+                  <div class="roadmap roadmap-s1 text-lg-center">
+                    <div class="roadmap-step roadmap-step-s1">
+                      <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-phase text-danger">&nbsp;</span>
+                        <span class="roadmap-time roadmap-time-s1"
+                          >7th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
                           >HOLDERS WILL BE INVITED TO GRAND PARTIES HELD IN
-                          DUBAI, UNITED ARAB EMIRATES</span
-                        >
+                          DUBAI, UNITED ARAB EMIRATES
+                        </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
@@ -253,6 +233,27 @@
                           parties in Dubai where valuable connections will be
                           found & made, taking your network and net-worth to the
                           next level. 📈
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg">
+                  <div class="roadmap roadmap-s1 text-lg-center">
+                    <div class="roadmap-step roadmap-step-s1">
+                      <div class="roadmap-head roadmap-head-s1">
+                        <span class="roadmap-time roadmap-time-s1"
+                          >8th milestone</span
+                        >
+                        <span class="roadmap-title roadmap-title-s1"
+                          >THE INSIDIOUS JOKERS MOBILE GAME</span
+                        >
+                      </div>
+                      <ul class="roadmap-step-list-s1 text-white">
+                        <li>
+                          Once 75% of the Insidious Jokers collection is sold out, the Insidious Jokers game 
+                          for iOS/Android will be released where our Insidious holders
+                          can use their NFTs as their unique characters in the game. 🎮
                         </li>
                       </ul>
                     </div>
