@@ -104,14 +104,13 @@
                           >4th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Giveaway of 5 super rare NFTS</span
+                          >Presales</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          For more details be active on our discord server and
-                          follow our social media accounts so no giveaways are
-                          missed out on. 💎
+                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
+                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
                         </li>
                       </ul>
                     </div>
@@ -129,15 +128,15 @@
                         <span class="roadmap-time roadmap-time-s1"
                           >6th milestone</span
                         >
-                        <span class="roadmap-title roadmap-title-s1"
-                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
-                          WILL BE ANNOUNCED SOON) 🎉
+                        <span class="roadmap-title roadmap-title-s1">
+                          EXCLUSIVE COMPETITIONS FOR INSIDIOUS HOLDERS
                         </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A portion of ETH from the sale will be donated to
-                          charity. 🤝
+                          Exclusive competitions will be hosted for Insidious
+                          Joker holders only, involving Ethereum, NFTs & Cash
+                          Giveaways. 💰
                         </li>
                       </ul>
                     </div>
@@ -151,13 +150,14 @@
                           >5th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Presales</span
+                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
+                          WILL BE ANNOUNCED SOON) 🎉</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
-                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
+                          A portion of ETH from the sale will be donated to
+                          charity. 🤝
                         </li>
                       </ul>
                     </div>
@@ -175,13 +175,14 @@
                           >5th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >Presales</span
+                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
+                          WILL BE ANNOUNCED SOON) 🎉</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          🎉 DISCORD MEMBERS WHO ARE QUALIFIED INTO WHITELIST
-                          WILL BE ABLE TO TAKE PART IN PRESALES 🎉
+                          A portion of ETH from the sale will be donated to
+                          charity. 🤝
                         </li>
                       </ul>
                     </div>
@@ -196,14 +197,14 @@
                           >6th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >🎉OFFICIAL LAUNCH OF THE COLLECTION ON OPENSEA (DATE
-                          WILL BE ANNOUNCED SOON) 🎉
+                          >EXCLUSIVE COMPETITIONS FOR INSIDIOUS HOLDERS
                         </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          A portion of ETH from the sale will be donated to
-                          charity. 🤝
+                          Exclusive competitions will be hosted for Insidious
+                          Joker holders only, involving Ethereum, NFTs & Cash
+                          Giveaways. 💰
                         </li>
                       </ul>
                     </div>
@@ -222,14 +223,16 @@
                           >7th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >EXCLUSIVE COMPETITIONS FOR INSIDIOUS HOLDERS
+                          >HOLDERS WILL BE INVITED TO GRAND PARTIES HELD IN
+                          DUBAI, UNITED ARAB EMIRATES
                         </span>
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Exclusive competitions will be hosted for Insidious
-                          Joker holders only, involving Ethereum, NFTs & Cash
-                          Giveaways. 💰
+                          Insidious Joker holders will be invited to private
+                          parties in Dubai where valuable connections will be
+                          found & made, taking your network and net-worth to the
+                          next level. 📈
                         </li>
                       </ul>
                     </div>
@@ -243,16 +246,14 @@
                           >8th milestone</span
                         >
                         <span class="roadmap-title roadmap-title-s1"
-                          >HOLDERS WILL BE INVITED TO GRAND PARTIES HELD IN
-                          DUBAI, UNITED ARAB EMIRATES</span
+                          >THE INSIDIOUS JOKERS MOBILE GAME</span
                         >
                       </div>
                       <ul class="roadmap-step-list-s1 text-white">
                         <li>
-                          Insidious Joker holders will be invited to private
-                          parties in Dubai where valuable connections will be
-                          found & made, taking your network and net-worth to the
-                          next level. 📈
+                          Once 75% of the Insidious Jokers collection is sold out, the Insidious Jokers game
+for iOS/Android will be released where our Insidious holders
+can use their NFTs as their unique characters in the game. 🎮
                         </li>
                       </ul>
                     </div>
