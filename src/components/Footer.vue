@@ -96,7 +96,7 @@
             cursor-pointer
             hover:text-white
           "
-          href="https://twitter.com/InsidiousJokers"
+          href="https://twitter.com/IJ_NFT"
           target="_blank"
         >
           <i
